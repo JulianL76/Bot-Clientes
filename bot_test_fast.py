@@ -293,11 +293,28 @@ def facturacion(row):
         pyautogui.press("enter")
         smart_sleep(0.1)
         
-        # si es 30 (Días), presionar M y enter
+        # Lógica de vencimiento según días
         vencimiento_num = ''.join(filter(str.isdigit, dato_vencimiento))
-        if vencimiento_num == "30":
-            print("    - Paso 4.1: Vencimiento 30 días detectado. Presionando M y Enter.")
-            pyautogui.write("m")
+        mapeo_vencimiento = {
+            "7": ("semana", "sem"),
+            "14": ("quincenal", "qu"),
+            "21": ("20 días", "20"),
+            "28": ("25 días", "25"),
+            "30": ("mensual", "me"),
+            "45": ("cuarenta", "cu")
+        }
+        
+        if vencimiento_num in mapeo_vencimiento:
+            label, teclas = mapeo_vencimiento[vencimiento_num]
+            print(f"    - Paso 4.1: Vencimiento {vencimiento_num} días ({label}) detectado. Escribiendo '{teclas}' + Enter.")
+            pyautogui.write(teclas)
+            smart_sleep(0.1)
+            pyautogui.press("enter")
+            smart_sleep(0.1)
+        elif vencimiento_num:
+            # Caso por defecto si hay un número pero no está en el mapeo
+            print(f"    - Paso 4.1: Vencimiento {vencimiento_num} días detectado (sin mapeo específico).")
+            pyautogui.write(vencimiento_num)
             smart_sleep(0.1)
             pyautogui.press("enter")
             smart_sleep(0.1)
