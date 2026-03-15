@@ -1,0 +1,2 @@
+ Paso 1 [CLICK] -> 756, 415
+ Paso 2 [CLICK] -> 45, 56

@@ -1,0 +1,1811 @@
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 22:32:01
+============================================================
+[❌ FAIL] Fila    2 | ID: 33818058             | TDA MILENA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila    3 | ID: 1094965843           | TIENDA A LA MANO AXM
+[❌ FAIL] Fila    4 | ID: 1098336394           | CORREA BARRETO PAULA ANDREA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 22:35:08
+============================================================
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 22:35:36
+============================================================
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 22:39:58
+============================================================
+[❌ FAIL] Fila    2 | ID: 1098336394           | CORREA BARRETO PAULA ANDREA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 22:41:28
+============================================================
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 22:41:50
+============================================================
+[✅ OK]  Fila    2 | ID: 1098336394           | CORREA BARRETO PAULA ANDREA
+[❌ FAIL] Fila    3 | ID: 1007452094           | TIENDA CARPINO | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 22:50:33
+============================================================
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 22:52:19
+============================================================
+[✅ OK]  Fila    2 | ID: 1007452094           | TIENDA CARPINO
+[✅ OK]  Fila    3 | ID: 41927835             | MINIMARKET LA MONA
+[❌ FAIL] Fila    4 | ID: 41933423             | LAGOS GARCIA CLAUDIA MILENA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:02:19
+============================================================
+[❌ FAIL] Fila    2 | ID: 41933423             | LAGOS GARCIA CLAUDIA MILENA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:03:18
+============================================================
+[❌ FAIL] Fila    2 | ID: 41933423             | LAGOS GARCIA CLAUDIA MILENA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:24:17
+============================================================
+[❌ FAIL] Fila    2 | ID: 41933423             | LAGOS GARCIA CLAUDIA MILENA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:25:39
+============================================================
+[❌ FAIL] Fila    2 | ID: 41933423             | LAGOS GARCIA CLAUDIA MILENA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:26:33
+============================================================
+[❌ FAIL] Fila    2 | ID: 41933423             | LAGOS GARCIA CLAUDIA MILENA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:27:52
+============================================================
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:29:21
+============================================================
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:30:36
+============================================================
+[❌ FAIL] Fila    2 | ID: 41933423             | LAGOS GARCIA CLAUDIA MILENA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:31:46
+============================================================
+[❌ FAIL] Fila    2 | ID: 41933423             | LAGOS GARCIA CLAUDIA MILENA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:32:36
+============================================================
+[❌ FAIL] Fila    2 | ID: 41933423             | LAGOS GARCIA CLAUDIA MILENA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:41:08
+============================================================
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:42:02
+============================================================
+[✅ OK]  Fila    2 | ID: 1130647456           | TIENDA RENTERIA
+[✅ OK]  Fila    3 | ID: 1094949972           | MERCAMOS MELO
+[✅ OK]  Fila    4 | ID: 1042000088           | MISCELANEA PAULA
+[❌ FAIL] Fila    5 | ID: 1112931129           | MINIMARKET GONFER | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila    6 | ID: 25024817             | MORALBA ISABEL ORDONEZ GOMEZ
+[❌ FAIL] Fila    7 | ID: 29916161             | CEPEDA RAMIREZ ELIANA YULIETH | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:49:51
+============================================================
+[❌ FAIL] Fila    2 | ID: 1130647456           | TIENDA RENTERIA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:51:34
+============================================================
+[❌ FAIL] Fila    2 | ID: 1112931129           | MINIMARKET GONFER | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[❌ FAIL] Fila    3 | ID: 25024817             | MORALBA ISABEL ORDONEZ GOMEZ | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[❌ FAIL] Fila    4 | ID: 29916161             | CEPEDA RAMIREZ ELIANA YULIETH | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-07 23:55:20
+============================================================
+[❌ FAIL] Fila    2 | ID: 29916161             | CEPEDA RAMIREZ ELIANA YULIETH | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 00:05:42
+============================================================
+[❌ FAIL] Fila    2 | ID: 29916161             | CEPEDA RAMIREZ ELIANA YULIETH | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 00:26:44
+============================================================
+[❌ FAIL] Fila    2 | ID: 29916161             | CEPEDA RAMIREZ ELIANA YULIETH | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila    3 | ID: 1112464476           | TIENDA LA RIVERA VERDE
+[❌ FAIL] Fila    4 | ID: 1286806              | AGUIRRE NIETO JOSE RUBELIO | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila    5 | ID: 1094951659           | MINIMERCADO EL MEJOR DE LA CIUDAD
+[✅ OK]  Fila    6 | ID: 1099709889           | TIENDA LAS AMERICAS
+[✅ OK]  Fila    7 | ID: 32837740             | LA VENTANA
+[❌ FAIL] Fila    8 | ID: 80415777             | OLAYA PACHON NELSON DE JESUS | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila    9 | ID: 1092852578           | AUTOSERVICIO OLAYA AXM
+
+--- RESUMEN FINAL ---
+Total: 8 | Exitosos: 5 | Fallidos: 3
+Tiempo total: 499.15s | Promedio: 62.39s por registro
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 00:50:14
+============================================================
+[❌ FAIL] Fila    2 | ID: 18464598             | ORDOÑEZ  MUÑOZ FRANCO PARMENIDES | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila    3 | ID: 1002593011           | MINI TIENDA PIMAR
+[❌ FAIL] Fila    4 | ID: 1097725995           | PENA FERNANDEZ WENDY JULIET | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 00:59:38
+============================================================
+[✅ OK]  Fila    2 | ID: 1097726451           | DEIBY ORTEGON MATEUS
+[⚠️ SKIP] Fila    3 | ID: 24988861             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    3 | ID: 24988861             | HURTADO VASQUEZ NANCY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila    4 | ID: 1098308665           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    4 | ID: 1098308665           | BEDOYA  ARENAS ISABEL | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila    5 | ID: 4465708              | DIEGO QUINTERO ARIAS
+[✅ OK]  Fila    6 | ID: 24603437             | ALFONSO ROJAS ANA IRLENA
+[✅ OK]  Fila    7 | ID: 16937649             | WILFRAN LINO ATEORTUA
+[✅ OK]  Fila    8 | ID: 1098336510           | NUBIA EDITH ROMERO RIVEROS
+[⚠️ SKIP] Fila    9 | ID: 24812683             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    9 | ID: 24812683             | GUERRA F  FERNANDEZ MARIELA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   10 | ID: 24674846             | TIENDA MIXTA
+[⚠️ SKIP] Fila   11 | ID: 80888804             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   11 | ID: 80888804             | VASQUEZ GUTIERREZ JOSE MANUEL | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   12 | ID: 9850099              | LA TIENDA DE ALQUI
+[❌ FAIL] Fila   13 | ID: 1053769993           | CASTANEDA CASTANEDA MELVA LUZ | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 01:11:58
+============================================================
+[⚠️ SKIP] Fila    2 | ID: 1053769993           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    2 | ID: 1053769993           | CASTANEDA CASTANEDA MELVA LUZ | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila    3 | ID: 1054919895           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    3 | ID: 1054919895           | HERNANDEZ  GRAJALES ELIANA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila    4 | ID: 1054923217           | MICELANEA SEBAS
+[✅ OK]  Fila    5 | ID: 1054992352           | LEONARDO GONZALEZ CARVAJAL
+[⚠️ SKIP] Fila    6 | ID: 10694540             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    6 | ID: 10694540             | MENESES DAZA CARLOS NOLBERTO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila    7 | ID: 1094883706           | EL DESVARE
+[✅ OK]  Fila    8 | ID: 41952885             | TIENDA MILE
+[⚠️ SKIP] Fila    9 | ID: 24603551             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    9 | ID: 24603551             | GARCIA ZAPATA  SOFIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   10 | ID: 1116915816           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   10 | ID: 1116915816           | MARTINEZ ESCUDERO JAQUELINE | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   11 | ID: 901754060            | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   11 | ID: 901754060            | INVERSIONES SANTANA DEL EJE S.A.S | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   12 | ID: 1080293688           | TIENDA LUCIANA
+[⚠️ SKIP] Fila   13 | ID: 1094878854           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   13 | ID: 1094878854           | LEONEL SOGAMOSO MOISES | ERROR: DIGITO_VERIFICACION
+[❌ FAIL] Fila   14 | ID: 1094915198           | TERMINAL DE LICORES | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[⚠️ SKIP] Fila   15 | ID: 1094887660           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   15 | ID: 1094887660           | AGUDELO SUAREZ DIEGO FERNANDO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   16 | ID: 1094888065           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   16 | ID: 1094888065           | GUTIERREZ GOMEZ LILIANA PATRICIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   17 | ID: 1094893470           | MISCELANEA AVENIDA J.J
+[⚠️ SKIP] Fila   18 | ID: 1094893584           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   18 | ID: 1094893584           | GONZALES  NAYIVE | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   19 | ID: 1094894638           | FRUVER FRESH
+[❌ FAIL] Fila   20 | ID: 1110477363           | ESCALANTE HOYOS ERNESTO (TIENDA MI TOLIMA) | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[⚠️ SKIP] Fila   21 | ID: 1094900870           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   21 | ID: 1094900870           | RIOS PALACIOS ALEXANDER | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   22 | ID: 1094901842           | NELSON FELIPE SANCHEZ PAEZ
+[❌ FAIL] Fila   23 | ID: 1094907966           | ANGELA LORENA HIGUITA MARIN | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila   24 | ID: 1113697989           | RAPI TIENDA MERCASA
+[✅ OK]  Fila   25 | ID: 1094910646           | TDA GIRALDO
+[⚠️ SKIP] Fila   26 | ID: 1094916737           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   26 | ID: 1094916737           | CHAMORRO SALGADO LUZ ANDREA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   27 | ID: 1094918522           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   27 | ID: 1094918522           | TORRES RESTREPO PAULA ANDREA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   28 | ID: 1094920537           | TIENDA LUPE
+[⚠️ SKIP] Fila   29 | ID: 1094921271           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   29 | ID: 1094921271           | ZAMBRANO SANCHEZ ERIKA TATIANA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   30 | ID: 24498739             | TIENDA CANTARITO
+[❌ FAIL] Fila   31 | ID: 41903996             | TIENDA LA ABUELA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila   32 | ID: 1094929634           | JHON ALEXANDER ARIZTIZABAL
+[⚠️ SKIP] Fila   33 | ID: 24497704             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   33 | ID: 24497704             | VALENCIA  DUQUE BLANCA RUBY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   34 | ID: 1094938876           | TIENDA ROSA
+[⚠️ SKIP] Fila   35 | ID: 10174035             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   35 | ID: 10174035             | ESCOBAR PRECIADO INOCENCIO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   36 | ID: 1094939798           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   36 | ID: 1094939798           | ALVAREZ CARDONA JULIO ALEXIS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   37 | ID: 25023977             | TIENDA LAS VEGAS
+[✅ OK]  Fila   38 | ID: 30520069             | MARIA ELISA GARCIA
+[✅ OK]  Fila   39 | ID: 1096006063           | LA MIXTA DE SAN DIEGO
+[⚠️ SKIP] Fila   40 | ID: 24529010             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   40 | ID: 24529010             | ATEHORTUA LOPEZ DIANA MARIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   41 | ID: 1096645389           | TIENDA PAO
+[⚠️ SKIP] Fila   42 | ID: 1097032433           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   42 | ID: 1097032433           | OCAMPO SALCEDO ANGELICA JANETH | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   43 | ID: 7544333              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   43 | ID: 7544333              | CARDONA JARAMILLO HECTOR JAIME | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   44 | ID: 21895486             | OFIR VASQUEZ GONZALEZ.
+[⚠️ SKIP] Fila   45 | ID: 41930123             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   45 | ID: 41930123             | RENGIFO CASTANEDA MONICA | ERROR: DIGITO_VERIFICACION
+[❌ FAIL] Fila   46 | ID: 1094909837           | DAVID DELGADO GUACHETA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila   47 | ID: 53167110             | MENDEZ MORATO DIANA CAROLINA
+[✅ OK]  Fila   48 | ID: 1097039197           | YENNI  ALVAREZ QUINTERO
+[✅ OK]  Fila   49 | ID: 41955229             | PAPEL COMPU
+[⚠️ SKIP] Fila   50 | ID: 1097394493           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   50 | ID: 1097394493           | RAMIREZ GAITAN ANDREA MARISELA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   51 | ID: 1094936312           | MISCELANEA SAN JOSE
+[✅ OK]  Fila   52 | ID: 1097401192           | JOHAN DAVID OCHOA CARDENAS
+[⚠️ SKIP] Fila   53 | ID: 1097726954           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   53 | ID: 1097726954           | HERNANDEZ SUAZA SANDRA EDITH | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   54 | ID: 60447323             | VARIEDADES Y CACHARRERIA JYJY
+[✅ OK]  Fila   55 | ID: 1098311625           | CATERINE  HENAO  CARVAJAL
+[⚠️ SKIP] Fila   56 | ID: 1098337027           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   56 | ID: 1098337027           | CASTILLO CARDONA ERIKA TATIANA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   57 | ID: 24603248             | NANCY LOPEZ BERMUDEZ
+[✅ OK]  Fila   58 | ID: 29927986             | TIENDA MIXTA LA 24
+[⚠️ SKIP] Fila   59 | ID: 1099683817           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   59 | ID: 1099683817           | TAPIAS APARICIO JENIFER ELIANA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   60 | ID: 1099708241           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   60 | ID: 1099708241           | CASILLAS  GARCIA MONICA VIVIANA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   61 | ID: 1106739201           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   61 | ID: 1106739201           | ARIAS  PEREZ  YURI LUCINDY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   62 | ID: 1110472590           | MAX DROGAS 2
+[✅ OK]  Fila   63 | ID: 1127938193           | TIENDA LUIS
+[⚠️ SKIP] Fila   64 | ID: 1114786531           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   64 | ID: 1114786531           | PEREZ ROJAS VIVIANA MARIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   65 | ID: 1151944021           | ASTRO SOL
+[❌ FAIL] Fila   66 | ID: 1099682449           | LUCITA´STORE | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[❌ FAIL] Fila   67 | ID: 1116237101           | ANDRES FELIPE MILLAN DELGADO | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[❌ FAIL] Fila   68 | ID: 7531449              | JOSE DEL CARMEN CORBONES | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila   69 | ID: 13991505             | AUTOSERVICIO CENTENARIO
+[❌ FAIL] Fila   70 | ID: 24479617             | TIENDA LA CARPA AMARILLA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila   71 | ID: 14232681             | TIENDA LA GRAN ESQUINA
+[⚠️ SKIP] Fila   72 | ID: 24582206             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   72 | ID: 24582206             | PATINO BETANCUR ACENET | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   73 | ID: 397609251            | B3 MINMARKET
+[✅ OK]  Fila   74 | ID: 1007318991           | AUTOSERVICIO LA FACHADA
+[✅ OK]  Fila   75 | ID: 24576841             | MICSELANEA Y PAPELERIA KARENS
+[✅ OK]  Fila   76 | ID: 1096033293           | TIENDA CLAU
+[✅ OK]  Fila   77 | ID: 1097731319           | TIENDA JOHAN
+[⚠️ SKIP] Fila   78 | ID: 28687766             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   78 | ID: 28687766             | SANTA RODRIGUEZ YARID PATRICIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   79 | ID: 9807377              | ANDUQUIA RIOS GUSTAVO
+[✅ OK]  Fila   80 | ID: 1094934902           | MISCELANEA LOS JUANES
+[✅ OK]  Fila   81 | ID: 25024186             | LA ESQUINA
+[✅ OK]  Fila   82 | ID: 39572302             | TIENDA MARQUEZ
+[✅ OK]  Fila   83 | ID: 24385161             | TIENDA MELBA
+[✅ OK]  Fila   84 | ID: 34054199             | TIENDA DONA DOLLY
+[✅ OK]  Fila   85 | ID: 41921253             | TIENDA CARVAJAL
+[✅ OK]  Fila   86 | ID: 24585568             | TDA KATY
+[✅ OK]  Fila   87 | ID: 24607152             | T VARIEDADES VICKY
+[✅ OK]  Fila   88 | ID: 1006795674           | TIENDA GUADUALES
+[✅ OK]  Fila   89 | ID: 1143972368           | PLAZOLENTA GIRASOLES
+[✅ OK]  Fila   90 | ID: 94481019             | LA GRAN VIDA
+[⚠️ SKIP] Fila   91 | ID: 24414217             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   91 | ID: 24414217             | HENAO ZAMORA MARIA AMPARO | ERROR: DIGITO_VERIFICACION
+[❌ FAIL] Fila   92 | ID: 41885694             | DOLLY DE LA PAVA LOPEZ | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila   93 | ID: 1004916423           | TIENDA NOHA
+[✅ OK]  Fila   94 | ID: 10008736             | MISCELANEA MULTIVIVERES
+[✅ OK]  Fila   95 | ID: 41939971             | VARIEDADES MISCELANEA J & G
+[✅ OK]  Fila   96 | ID: 1094899836           | TIENDA LA MONA
+[✅ OK]  Fila   97 | ID: 7562207              | TIENDA Y REVUELTERIA YECID
+[✅ OK]  Fila   98 | ID: 66757499             | MINIMARKET EL HUERTO
+[✅ OK]  Fila   99 | ID: 38791765             | MISCELANEA DONKING
+[✅ OK]  Fila  100 | ID: 1022325387           | MERCAYA LOS PAISAS
+[⚠️ SKIP] Fila  101 | ID: 25019748             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  101 | ID: 25019748             | HERRERA GARZON EDILCEN | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  102 | ID: 1272441              | CESAR DE JESUS HOYOS GARCIA
+[✅ OK]  Fila  103 | ID: 41870915             | TIENDA CANTARITO
+[⚠️ SKIP] Fila  104 | ID: 30353728             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  104 | ID: 30353728             | GIRALDO SALAZAR  EUCARIS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  105 | ID: 418897863            | VARIEDADES MARTHA LUCIA CC 41889783
+[⚠️ SKIP] Fila  106 | ID: 1096032488           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  106 | ID: 1096032488           | MENDOZA ALZATE LEIDY YOHANA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  107 | ID: 18461501             | MINIMERCADO EL CAFETERO
+[✅ OK]  Fila  108 | ID: 4422743              | URIEL COLORADO JIMENEZ
+[✅ OK]  Fila  109 | ID: 1126240195           | LA TIENDA DE EMI
+[✅ OK]  Fila  110 | ID: 1144192404           | DROGUERIA GLOSALUD
+[❌ FAIL] Fila  111 | ID: 65815854             | AQUI LLEGUE Y AQUI ME QUEDO | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila  112 | ID: 1139874264           | TIENDA LA CRESPA
+[✅ OK]  Fila  113 | ID: 1094924430           | PANADERIA Y CAFETERIA SOTO
+[✅ OK]  Fila  114 | ID: 41871555             | REVUELTERIA N1A
+[⚠️ SKIP] Fila  115 | ID: 1096037331           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  115 | ID: 1096037331           | RUIZ RENDON IVAN DAVID | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  116 | ID: 4523805              | MICELANEA POLLO CARNE VERDURA EL PRADO
+[⚠️ SKIP] Fila  117 | ID: 24497888             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  117 | ID: 24497888             | GARZON PINILLA MARLENY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  118 | ID: 1094947441           | ESQUINA DE JULIANA
+[✅ OK]  Fila  119 | ID: 7527859              | TIENDA PIOLIN DE ORLANDO
+[✅ OK]  Fila  120 | ID: 1094916889           | HUEVOS EL DES PACHO
+[✅ OK]  Fila  121 | ID: 1058842565           | TIENDA EL TRIANGULO
+[✅ OK]  Fila  122 | ID: 1091203726           | TIENDA BOSQUE TEBAIDA
+[✅ OK]  Fila  123 | ID: 43819403             | TIENDA MISCELANEA MONTEZUMA
+[✅ OK]  Fila  124 | ID: 1115184376           | LA FONDA
+[⚠️ SKIP] Fila  125 | ID: 41212900             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  125 | ID: 41212900             | GARCIA CORREA NIDIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  126 | ID: 1094978637           | LA GRAN COSECHA
+[❌ FAIL] Fila  127 | ID: 21012185             | TIENDA TITA | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[⚠️ SKIP] Fila  128 | ID: 1094928226           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  128 | ID: 1094928226           | ORJUELA RAMIREZ ESTEFANI | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  129 | ID: 24497744             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  129 | ID: 24497744             | ALVAREZ HEREDIA MARIA DOLORES | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  130 | ID: 1063167470           | TIENDA SHALON
+[✅ OK]  Fila  131 | ID: 4525832              | JACOBO JUVENCIO DIAZ DIAZ
+[⚠️ SKIP] Fila  132 | ID: 1096646364           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  132 | ID: 1096646364           | LOPEZ AGUIRRE MAYRA ALEJANDRA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  133 | ID: 32135629             | TIENDA LA PAISA
+[✅ OK]  Fila  134 | ID: 1094970568           | RIBADEO
+[✅ OK]  Fila  135 | ID: 41952956             | TDA JYG
+[✅ OK]  Fila  136 | ID: 1067927128           | MERCADO FAMILIAR
+[✅ OK]  Fila  137 | ID: 1094892760           | TIENDA EL TRIUNFO
+
+--- RESUMEN FINAL ---
+Total: 136 | Exitosos: 124 | Fallidos: 12
+Tiempo total: 5031.01s | Promedio: 36.99s por registro
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 07:19:24
+============================================================
+[✅ OK]  Fila    2 | ID: 24581712             | TIENDA FIONA
+[⚠️ SKIP] Fila    3 | ID: 7525151              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    3 | ID: 7525151              | HENAO  RODRIGUE HELVER | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila    4 | ID: 7531319              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    4 | ID: 7531319              | POSADA BAHENA REINALDO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila    5 | ID: 8498349              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    5 | ID: 8498349              | ESCALONA GUETE JHAN CARLOS | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila    6 | ID: 94253215             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    6 | ID: 94253215             | RIOS JARAMILLO MAURO DE JESUS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila    7 | ID: 9727255              | DROGUERIA MURILLO DEPINARES
+[✅ OK]  Fila    8 | ID: 9800036              | TIENDA LEAL
+[⚠️ SKIP] Fila    9 | ID: 15911445             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    9 | ID: 15911445             | GARCIA LADINO HERNAN DE JESUS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   10 | ID: 91046636             | TIENDA EL BARATON
+[✅ OK]  Fila   11 | ID: 24577596             | TIENDA CACIQUE CALARCA
+[✅ OK]  Fila   12 | ID: 41906262             | TIENDA BENJUMEA
+[✅ OK]  Fila   13 | ID: 24660101             | TIENDA ROMAN
+[⚠️ SKIP] Fila   14 | ID: 41903705             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   14 | ID: 41903705             | CARMONA ORTEGA LUZ DELIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   15 | ID: 41914944             | VARIEDADES LUZA
+[✅ OK]  Fila   16 | ID: 41916823             | TIENDA LA CLARITA
+[⚠️ SKIP] Fila   17 | ID: 70783779             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   17 | ID: 70783779             | SANTA LOPEZ NOLBERTO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   18 | ID: 97436259             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   18 | ID: 97436259             | BERMEO LOPEZ ARLEY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   19 | ID: 33818893             | ESMERALDA ROJAS
+[⚠️ SKIP] Fila   20 | ID: 18419158             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   20 | ID: 18419158             | BARRAGAN  VERGARA ANGEL NEIR | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   21 | ID: 4929969              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   21 | ID: 4929969              | NANEZ  HOYOS SEGUNDO JESUS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   22 | ID: 24498397             | TIENDA NINI
+[⚠️ SKIP] Fila   23 | ID: 25014974             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   23 | ID: 25014974             | PEREZ  CRUZ  MARIA GUIOMAR | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   24 | ID: 24814984             | TIENDA ANTONIO NARIÑO
+[⚠️ SKIP] Fila   25 | ID: 41926155             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   25 | ID: 41926155             | TIENDA DAVID | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila   26 | ID: 24584737             | KIOSKO EL REVERSADERO
+[✅ OK]  Fila   27 | ID: 17689177             | HOTEL ARMENIA CENTER
+[⚠️ SKIP] Fila   28 | ID: 66768339             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   28 | ID: 66768339             | RESTREPO   JANETH | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   29 | ID: 24585100             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   29 | ID: 24585100             | GONZALES GOMEZ LUZ ADRIANA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   30 | ID: 1097398150           | NURY JOHANNA URIBE GARCES
+[⚠️ SKIP] Fila   31 | ID: 4355617              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   31 | ID: 4355617              | CANO LONDONO HERNANDO DE JESUS | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   32 | ID: 4403950              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   32 | ID: 4403950              | RENGIFO MARIN HERMES | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   33 | ID: 1094895655           | ANDRES FELIPE MARTINEZ RUIZ
+[⚠️ SKIP] Fila   34 | ID: 24815402             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   34 | ID: 24815402             | ZAPATA RUIZ DIANA MARIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   35 | ID: 28529798             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   35 | ID: 28529798             | GARIBELLO ALDANA BLANCA REINA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   36 | ID: 24573448             | LUZ EDILMA CAMACHO VANEGAS
+[✅ OK]  Fila   37 | ID: 30351466             | MARIBEL SANCHEZ PESCA
+[⚠️ SKIP] Fila   38 | ID: 3380943              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   38 | ID: 3380943              | RODAS  ALEJANDRO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   39 | ID: 1094900946           | ANDERSON ESPONDA HENAO
+[✅ OK]  Fila   40 | ID: 24497187             | TIENDA LILI
+[✅ OK]  Fila   41 | ID: 1098309590           | MISCELANEA TIENDA POPULAR
+[⚠️ SKIP] Fila   42 | ID: 7557633              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   42 | ID: 7557633              | HERNANDEZ ZAPATA  LEONEL | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   43 | ID: 18593645             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   43 | ID: 18593645             | LONDONO ESCOBAR JHON JAIRO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   44 | ID: 1090272915           | TIENDA RYR
+[✅ OK]  Fila   45 | ID: 1094915577           | TIEMDA KIKO
+[✅ OK]  Fila   46 | ID: 1152688853           | TIENDA LOS EMPRENDEDORES
+[⚠️ SKIP] Fila   47 | ID: 41947041             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   47 | ID: 41947041             | RESTREPO ENCIZO SANDRA MILENA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   48 | ID: 41941135             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   48 | ID: 41941135             | RAMOS GRANADA JAQUELINE | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   49 | ID: 29448526             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   49 | ID: 29448526             | CASTANO MARIA YORLADIS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   50 | ID: 37013141             | SURTI QUINDIO SUR EL EDEN
+[⚠️ SKIP] Fila   51 | ID: 1019043674           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   51 | ID: 1019043674           | ROJAS GUTIERREZ ANGELA PATRICIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   52 | ID: 4344549              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   52 | ID: 4344549              | CARDONA   SALAZAR LUIS ALBERTO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   53 | ID: 24585807             | VARIEDADES Y MISCELANEA SAN JUAN
+[⚠️ SKIP] Fila   54 | ID: 1150934549           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   54 | ID: 1150934549           | TOBAR ESCOBAR KAREN LIZETH | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   55 | ID: 25248631             | TIENDA Y MISCELANEA KATHERYN
+[✅ OK]  Fila   56 | ID: 25026632             | PAULA ANDREA MURIEL VALENCIA
+[✅ OK]  Fila   57 | ID: 41961749             | CREMA PAN ARMENIA
+[✅ OK]  Fila   58 | ID: 1094959577           | TIENDA LEYTON
+[✅ OK]  Fila   59 | ID: 29331079             | MARTHA LUCIA CRUZ
+[✅ OK]  Fila   60 | ID: 41870256             | MARIA CARMENZA NARVAEZ MONTERO
+[⚠️ SKIP] Fila   61 | ID: 11794286             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   61 | ID: 11794286             | MENA RENTERIA HUGO FERNELIX | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   62 | ID: 41903159             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   62 | ID: 41903159             | BARRERO RIVILLAS GRACIELA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   63 | ID: 1096034678           | TIENDA LA MARGARITA
+[⚠️ SKIP] Fila   64 | ID: 5991987              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   64 | ID: 5991987              | ANDUQUIA RIOS JOSE ASBEL | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   65 | ID: 28587700             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   65 | ID: 28587700             | ROZO ALBA NELLY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   66 | ID: 9775896              | FRUTI VERDURAS
+[✅ OK]  Fila   67 | ID: 41917189             | TIENDA VARIEDADES SAMU
+[⚠️ SKIP] Fila   68 | ID: 41924001             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   68 | ID: 41924001             | TIENDA OCHOA MARTINEZ | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila   69 | ID: 41925715             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   69 | ID: 41925715             | TIENDA TIGREROS | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila   70 | ID: 41909512             | LA TIENDA DE TITA
+[✅ OK]  Fila   71 | ID: 42097036             | ORJUELA . ESPERANZA
+[⚠️ SKIP] Fila   72 | ID: 42100201             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   72 | ID: 42100201             | HERRERA MARIN NANCY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   73 | ID: 42762683             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   73 | ID: 42762683             | BERMUDEZ MONTOYA MARTA LIGIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   74 | ID: 4408550              | TIENDA MISETA ANDRADE
+[⚠️ SKIP] Fila   75 | ID: 4524183              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   75 | ID: 4524183              | 4 ESQUINAS | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila   76 | ID: 80886769             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   76 | ID: 80886769             | RAMIREZ BONILLA FRAY ALBERTO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   77 | ID: 24659891             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   77 | ID: 24659891             | LOPEZ RESTREPO ANABEYBA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   78 | ID: 28548248             | TIENDA ELIANIS
+[✅ OK]  Fila   79 | ID: 4582215              | TIENDA JJ Y M
+[⚠️ SKIP] Fila   80 | ID: 65776817             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   80 | ID: 65776817             | TOVAR MURCIA  NERCY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   81 | ID: 65711523             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   81 | ID: 65711523             | GAVIRIA GARCIA LUZ MARINA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   82 | ID: 24810504             | TIENDA LA NENA
+[⚠️ SKIP] Fila   83 | ID: 4522744              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   83 | ID: 4522744              | OSORIO SALAZAR MIGUEL ANGEL | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   84 | ID: 9732926              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   84 | ID: 9732926              | TIENDA 19-3 | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila   85 | ID: 9808144              | TIENDA LOZANO LO MEJOR
+[⚠️ SKIP] Fila   86 | ID: 17065307             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   86 | ID: 17065307             | JORGE ENRIQUE MATEUS FONTECHA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila   87 | ID: 24577730             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   87 | ID: 24577730             | CARDENAS GIRALDO MARIA CELMIRA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   88 | ID: 24571663             | TIENDA SANTA ISABEL
+[⚠️ SKIP] Fila   89 | ID: 24815434             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   89 | ID: 24815434             | RAMIREZ BUITRAGO DIANA CAROLINA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   90 | ID: 4466364              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   90 | ID: 4466364              | MARIN RUIZ HUMBERTO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   91 | ID: 1094894909           | TIENDA LOS PULIDOS
+[⚠️ SKIP] Fila   92 | ID: 24626143             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   92 | ID: 24626143             | TIENDA MARIELA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila   93 | ID: 71114106             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   93 | ID: 71114106             | ZULUAGA HOYOS ALDEMAR | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   94 | ID: 25064237             | RESTAURANTE EL BUEN SABOR
+[⚠️ SKIP] Fila   95 | ID: 24672818             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   95 | ID: 24672818             | LABRONA  MARIA AMPARO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   96 | ID: 30516297             | TIENDA LOS ALMENDROS
+[✅ OK]  Fila   97 | ID: 18436190             | TIENDA LUZ
+[⚠️ SKIP] Fila   98 | ID: 1094939195           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   98 | ID: 1094939195           | VARIEDADES DANY Y JACOB | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila   99 | ID: 80082324             | MINIMARKET INTER PLAZA
+[✅ OK]  Fila  100 | ID: 1123313803           | MISCELANEA REMESAS EXPRESS
+[⚠️ SKIP] Fila  101 | ID: 16359700             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  101 | ID: 16359700             | GARCIA  MONTIEL LUIS ALBERTO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  102 | ID: 29331497             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  102 | ID: 29331497             | GIL GIL GLORIA ESPERANZA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  103 | ID: 24578125             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  103 | ID: 24578125             | LUZ  MARIELLY MEJIA MORENO | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  104 | ID: 25119370             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  104 | ID: 25119370             | HERNANDEZ  FLOR DE MARIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  105 | ID: 24475106             | TIENDA AMPARITO
+[⚠️ SKIP] Fila  106 | ID: 24477450             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  106 | ID: 24477450             | LOZANO DORA INES | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  107 | ID: 24497087             | MUNOZ . ROSA ADELA
+[⚠️ SKIP] Fila  108 | ID: 71421983             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  108 | ID: 71421983             | PABON ESTRADA CARLOS ANDRES | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  109 | ID: 18395842             | MISCELANEA LA 38
+[⚠️ SKIP] Fila  110 | ID: 31096436             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  110 | ID: 31096436             | RODRIGUEZ COBOS  LUZ FRANCY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  111 | ID: 29998573             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  111 | ID: 29998573             | ESCUERDO  GUZMAN GAITAN | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  112 | ID: 24810107             | MISCELANEA GLORIA
+[⚠️ SKIP] Fila  113 | ID: 24812490             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  113 | ID: 24812490             | QUINTERO CARDENAS OLGA PATRICIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  114 | ID: 24813176             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  114 | ID: 24813176             | CASTILLO GRANDA YENY LORENA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  115 | ID: 24813826             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  115 | ID: 24813826             | MONTANO  YESENIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  116 | ID: 24578678             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  116 | ID: 24578678             | TIENDA 39 | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  117 | ID: 29927010             | TIENDA LA SUERTE DE MARINA
+[✅ OK]  Fila  118 | ID: 16135254             | MISCELANEA LA GRAN ESQUINA
+[✅ OK]  Fila  119 | ID: 1097396581           | MISCELANEA LA 39
+[✅ OK]  Fila  120 | ID: 38860456             | LUZ MARINA AGUIRRE LOPEZ
+[⚠️ SKIP] Fila  121 | ID: 24660082             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  121 | ID: 24660082             | GIRLADO LONDOÑO LUZ AMPARO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  122 | ID: 41892250             | TIENDA LUCY
+[⚠️ SKIP] Fila  123 | ID: 41924393             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  123 | ID: 41924393             | TORO SANCHEZ ELIZABET | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  124 | ID: 9790938              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  124 | ID: 9790938              | ANGEL AGUIRRE ADRIAN ALBERTO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  125 | ID: 41935089             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  125 | ID: 41935089             | OSORIO CHALARCA TERESA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  126 | ID: 42078391             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  126 | ID: 42078391             | CARDONA BEDOYA MARIA CECILIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  127 | ID: 4374601              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  127 | ID: 4374601              | GIL  PACHECO JOSE JESUS | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  128 | ID: 4465388              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  128 | ID: 4465388              | GIL PINEDA CARLOS ALBERTO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  129 | ID: 66808488             | DROGUERIA PROVIDA
+[⚠️ SKIP] Fila  130 | ID: 80208772             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  130 | ID: 80208772             | OSPINA OSPINA EDWIN ALEXANDER | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  131 | ID: 24573513             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  131 | ID: 24573513             | NEIRA CASTELLANOS LUZ MARINA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  132 | ID: 29805672             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  132 | ID: 29805672             | RESTREPO TORRES FLOR DE MARIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  133 | ID: 9801294              | TIENDA ORTEGA
+[⚠️ SKIP] Fila  134 | ID: 23897566             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  134 | ID: 23897566             | PORTILLO CABRERA CIELO ISABEL | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  135 | ID: 1094937832           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  135 | ID: 1094937832           | HINCAPIE ANDICA MARIANA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  136 | ID: 901278598            | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  136 | ID: 901278598            | DISTRIBUCIONES GRAJALES SAS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  137 | ID: 41910717             | DROGUERIA A SU SALUD
+[✅ OK]  Fila  138 | ID: 29974007             | MISCELANEA SAN FRANCISCO DE ARMENIA
+[✅ OK]  Fila  139 | ID: 1001663937           | MICELANEA MARANATHA
+[✅ OK]  Fila  140 | ID: 1272953              | MUNDO CAMPO PIJAO
+[✅ OK]  Fila  141 | ID: 24989825             | TIENDA LA ESQUINA
+[✅ OK]  Fila  142 | ID: 66982514             | MARIA CRISTINA ARIAS SANTA MARIA
+[⚠️ SKIP] Fila  143 | ID: 1094958366           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  143 | ID: 1094958366           | VARIEDADES | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  144 | ID: 25249641             | YUDI VIVIANA BEDOYA MORALES
+[⚠️ SKIP] Fila  145 | ID: 1110460469           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  145 | ID: 1110460469           | MICELANEA NINI | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  146 | ID: 1110488908           | TIENDA MONIKA
+[✅ OK]  Fila  147 | ID: 1232396766           | TIENDA DANIEL
+[⚠️ SKIP] Fila  148 | ID: 41936219             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  148 | ID: 41936219             | MALAGON APONTE MARTHA  LILIANA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  149 | ID: 23268643             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  149 | ID: 23268643             | VARGAS MARTINEZ MARIA MATILDE | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  150 | ID: 41901282             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  150 | ID: 41901282             | CAICEDO CAMARGO BIBIANA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  151 | ID: 29806942             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  151 | ID: 29806942             | LOAIZA CORREA MARGARITA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  152 | ID: 24498435             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  152 | ID: 24498435             | VARGAS MENDIENTA MARTHA CECILIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  153 | ID: 24569869             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  153 | ID: 24569869             | RUIZ ESCALANTE MARINA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  154 | ID: 24573670             | TIENDA ALTO DEL RIO
+[⚠️ SKIP] Fila  155 | ID: 25120764             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  155 | ID: 25120764             | HERNANDEZ LUZ ESTELLA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  156 | ID: 24590207             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  156 | ID: 24590207             | SUAREZ SUAREZ YUDI YAZMIN | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  157 | ID: 24604938             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  157 | ID: 24604938             | CASTRO  LUZ ARGENIS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  158 | ID: 24605515             | TIENDA VARON
+[✅ OK]  Fila  159 | ID: 9807982              | LA TIENDA DE PEDRO
+[⚠️ SKIP] Fila  160 | ID: 24812833             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  160 | ID: 24812833             | MANCILLA GUERRERO MARIA DEL CARMEN | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  161 | ID: 41930560             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  161 | ID: 41930560             | RAMOS LONDONO DIANA LORENA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  162 | ID: 1094882238           | TIENDAS YIRETH
+[✅ OK]  Fila  163 | ID: 1099709645           | FRUVER ALEXA
+[✅ OK]  Fila  164 | ID: 94386495             | ASOFARMA
+[✅ OK]  Fila  165 | ID: 25020387             | TIENDA VILLA DANI
+[✅ OK]  Fila  166 | ID: 28399223             | EL KIOSKO
+[⚠️ SKIP] Fila  167 | ID: 29156405             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  167 | ID: 29156405             | ORTEGA LAVERDE GLORIA ELENA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  168 | ID: 9779616              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  168 | ID: 9779616              | CAMACHO OBALDO JESUS | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  169 | ID: 33379303             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  169 | ID: 33379303             | MAYORGA MARTINEZ SANDRA JOHANNA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  170 | ID: 33817906             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  170 | ID: 33817906             | ALVAREZ RIVEROS HERLINDA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  171 | ID: 33818287             | LA ESQUINA DE MARY
+[✅ OK]  Fila  172 | ID: 41892084             | MINIMERCADO CASTRILLON
+[⚠️ SKIP] Fila  173 | ID: 41927349             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  173 | ID: 41927349             | ROJAS  MORALES AMANDA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  174 | ID: 41930573             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  174 | ID: 41930573             | CANO ARROYAVE MARTHA ELENA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  175 | ID: 41931619             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  175 | ID: 41931619             | GALVIS ZAPATA  LUCY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  176 | ID: 41942997             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  176 | ID: 41942997             | TIENDA ANGELICA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  177 | ID: 4399558              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  177 | ID: 4399558              | SANCHEZ  LUIS EDUARDO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  178 | ID: 4403136              | TIENDA MDCTA
+[✅ OK]  Fila  179 | ID: 1094958151           | TIENDA LA ESQUINA
+[⚠️ SKIP] Fila  180 | ID: 41937791             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  180 | ID: 41937791             | MENA LOPEZ DIBA INES | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  181 | ID: 31401072             | MISCELANEA EL DESCUENTO
+[⚠️ SKIP] Fila  182 | ID: 48635141             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  182 | ID: 48635141             | JIMENEZ GIRONZA LUZ MILA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  183 | ID: 7551367              | LUIS ANGEL LOAIZA QUINTERO
+[✅ OK]  Fila  184 | ID: 18393084             | DROGUERIA FAMILIAR
+[⚠️ SKIP] Fila  185 | ID: 18463607             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  185 | ID: 18463607             | GALLEGO RODRIGO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  186 | ID: 2470359              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  186 | ID: 2470359              | QUINTERO PATINO URIEL DE JESUS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  187 | ID: 42978857             | TIENDA DANIELA
+[✅ OK]  Fila  188 | ID: 1097037104           | JACKELINE PINEDA  HERNANDEZ
+[✅ OK]  Fila  189 | ID: 18470108             | TIENDA Y VERDURAS CASTRO
+[✅ OK]  Fila  190 | ID: 18461031             | TIENDA LA SEXTA
+[⚠️ SKIP] Fila  191 | ID: 76291484             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  191 | ID: 76291484             | VELASCO BALCAZAR CRUZ MARIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  192 | ID: 24659329             | TIENDA MI TIENDITA
+[✅ OK]  Fila  193 | ID: 41927238             | TIENDA Y MISCELANEA EL RECREO
+[✅ OK]  Fila  194 | ID: 1193089133           | TIENDA ATARDECER
+[✅ OK]  Fila  195 | ID: 1000319712           | TIENDA AIRES
+[⚠️ SKIP] Fila  196 | ID: 30382903             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  196 | ID: 30382903             | TDA EL GRAN EMPERADOR | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  197 | ID: 29818809             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  197 | ID: 29818809             | TIENDA LA ALEGRIA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  198 | ID: 25103277             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  198 | ID: 25103277             | TDA MINIMARKET | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  199 | ID: 28936569             | TIENDA LA MEJOR OF
+[✅ OK]  Fila  200 | ID: 1090273635           | MISCELANEA LICORES Y CAFE
+[✅ OK]  Fila  201 | ID: 16264301             | MISCELANEA LUZ.
+[⚠️ SKIP] Fila  202 | ID: 29306831             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  202 | ID: 29306831             | VENTANILLA TIENDA MARY | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  203 | ID: 1005087858           | TIENDA KAREN
+[⚠️ SKIP] Fila  204 | ID: 25120658             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  204 | ID: 25120658             | DUQUE OSPINA DENIS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  205 | ID: 3369151              | RAUL SALAZAR ATEHORTUA
+[✅ OK]  Fila  206 | ID: 1098337493           | MINIMARKET LA ESQUINA
+[⚠️ SKIP] Fila  207 | ID: 1094968269           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  207 | ID: 1094968269           | TIENDA QUINTA JW | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  208 | ID: 1013586466           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  208 | ID: 1013586466           | LIZETH CAROLINA MOLINA VERA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  209 | ID: 4564263              | AGROVETERINARIA EL HATO DE SALENTO
+[✅ OK]  Fila  210 | ID: 7527454              | TIENDA Y PANADERIA CHEITO
+[✅ OK]  Fila  211 | ID: 24660967             | MARIELLY VALENCIA CEBALLOS
+[✅ OK]  Fila  212 | ID: 4423964              | TIENDA MIXTA SALOME
+[⚠️ SKIP] Fila  213 | ID: 18371748             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  213 | ID: 18371748             | ROMAN MOLINA SAMIR | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  214 | ID: 4408126              | TIENDA Y MISELANEA VIVIAN
+[⚠️ SKIP] Fila  215 | ID: 28927182             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  215 | ID: 28927182             | MONTOYA FRANCO MARIA GLADIS | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  216 | ID: 28698438             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  216 | ID: 28698438             | TIENDA YULIANA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  217 | ID: 4423208              | CENTRAL  DE VERDURA
+[⚠️ SKIP] Fila  218 | ID: 39654726             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  218 | ID: 39654726             | SUAREZ DORALIZ | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  219 | ID: 7538967              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  219 | ID: 7538967              | TIENDA SALAZAR DEL CENTRO | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  220 | ID: 39667506             | VARIEDADES CRONOS
+[✅ OK]  Fila  221 | ID: 31520350             | TIENDA LA PALMAS
+[✅ OK]  Fila  222 | ID: 1152187950           | MAXIMERCADO LOS PAISAS
+[✅ OK]  Fila  223 | ID: 29137471             | TIENDA Y REVUELTERIA ISAAC
+[✅ OK]  Fila  224 | ID: 25025082             | TIENDA LA CANCHA GAITAN
+[✅ OK]  Fila  225 | ID: 7503169              | IVAN CARDONA MOSQUERA
+[⚠️ SKIP] Fila  226 | ID: 24603924             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  226 | ID: 24603924             | PALACIO CASTANO BLANCA OLIVIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  227 | ID: 18418840             | ANDERSON GARCIA PATIÑO
+[✅ OK]  Fila  228 | ID: 2279497              | TIENDA Y REVUELTERIA NARINO
+[✅ OK]  Fila  229 | ID: 31982709             | LUZ MARY HERNANDEZ MONCADA
+[⚠️ SKIP] Fila  230 | ID: 41905340             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  230 | ID: 41905340             | RESTREPO SANCHEZ YOLANDA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  231 | ID: 18370488             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  231 | ID: 18370488             | NARVAEZ OJEDA JOSE GREGORIO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  232 | ID: 25107427             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  232 | ID: 25107427             | GONZALEZ MARIA GLADIS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  233 | ID: 18490659             | TIENDA SURTITODO
+[⚠️ SKIP] Fila  234 | ID: 25025915             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  234 | ID: 25025915             | HERNANDEZ GAVIRIA YESSICA NATALIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  235 | ID: 31931576             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  235 | ID: 31931576             | HURTADO MARTINEZ FLUVIA AURORA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  236 | ID: 41894961             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  236 | ID: 41894961             | ALVAREZ OSORIO MARIA GUTHY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  237 | ID: 24988023             | KIOSCO EL ARCO
+[⚠️ SKIP] Fila  238 | ID: 24812318             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  238 | ID: 24812318             | TABARESQ TUSARMEN CARMEN LUCIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  239 | ID: 41933154             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  239 | ID: 41933154             | MICELANEA JOHAN | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  240 | ID: 18435067             | TIENDA LA MAZORCA
+[✅ OK]  Fila  241 | ID: 41951656             | PA DONDE WILLI
+[⚠️ SKIP] Fila  242 | ID: 31948989             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  242 | ID: 31948989             | GUTIERREZ MARTINEZ MARIA OLGA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  243 | ID: 24575543             | MIS FELIX
+[⚠️ SKIP] Fila  244 | ID: 4523825              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  244 | ID: 4523825              | FORERO BERNAL JOSE RICARDO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  245 | ID: 31186371             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  245 | ID: 31186371             | BEDOYA DE DELGADO  LUCY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  246 | ID: 7543174              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  246 | ID: 7543174              | RAMIREZ LOPEZ JUAN DE LA CRUZ | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  247 | ID: 7512955              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  247 | ID: 7512955              | LISARDO ANTONIO VANEGAS RUIZ | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  248 | ID: 7499880              | DIONEL HIDALGO CASTANO
+[✅ OK]  Fila  249 | ID: 24474657             | CALDERON DE_MARTINEZ MARTHA
+[✅ OK]  Fila  250 | ID: 25576470             | TIENDA DIANA
+[⚠️ SKIP] Fila  251 | ID: 24790704             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  251 | ID: 24790704             | OSORIO MARIN GLORIA ELCY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  252 | ID: 93339528             | TIENDA PAANDERÍA FUNDADORES
+[✅ OK]  Fila  253 | ID: 1094896456           | TIENDA PISAMOS
+[⚠️ SKIP] Fila  254 | ID: 13991918             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  254 | ID: 13991918             | VALENCIA MORALES  FABIAN | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  255 | ID: 1094949229           | SALSAMENTARIA Y PANADERIA PIPE PAN
+[⚠️ SKIP] Fila  256 | ID: 1096032290           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  256 | ID: 1096032290           | CARTOCHE ROJAS LILIANA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  257 | ID: 7511783              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  257 | ID: 7511783              | TIENDA RODO | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  258 | ID: 24576529             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  258 | ID: 24576529             | MARIA DOLLY CASTRO RIOS | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  259 | ID: 12194735             | VARIEDADES Y ARTESANIAS
+[✅ OK]  Fila  260 | ID: 1094961031           | KING MARKET LOS ARCES
+[⚠️ SKIP] Fila  261 | ID: 4422870              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  261 | ID: 4422870              | CARVAJAL CASTRO JOSE ALIRIO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  262 | ID: 75040124             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  262 | ID: 75040124             | LEONARDO FABIO GIRALDO PALACIO | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  263 | ID: 40413246             | MISCELANEA MIRIAM CIUDAD LIBRE
+[✅ OK]  Fila  264 | ID: 1003500716           | TIENDA SURTIQUINDIO
+[✅ OK]  Fila  265 | ID: 9806783              | SURTITIENDA JUANCHO BARATO
+[✅ OK]  Fila  266 | ID: 7558308              | PEDRO LUIS RUBIANO CARDENAS
+[⚠️ SKIP] Fila  267 | ID: 31422450             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  267 | ID: 31422450             | GIRALDO RESTREPO BLANCA NUBIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  268 | ID: 43858687             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  268 | ID: 43858687             | LOPEZ MURILLO EUCARIS | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  269 | ID: 41916890             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  269 | ID: 41916890             | PANADERIA EL GORDO | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  270 | ID: 18420273             | CARLOS ANDRES GRACIA CADAVID
+[✅ OK]  Fila  271 | ID: 901726274            | DISTRIBUIDORA LOS PAISAS RQAD - QUIMBAYA S.A.S
+[✅ OK]  Fila  272 | ID: 1097400221           | DROGUERIA LLANITOS
+[✅ OK]  Fila  273 | ID: 41870104             | TIENDA Y PAPELERIA YAQUE
+[⚠️ SKIP] Fila  274 | ID: 21559788             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  274 | ID: 21559788             | TIENDA LA M | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  275 | ID: 1030581849           | SUPER TIENDA LOS PAISAS DE VILLA LILIANA
+[⚠️ SKIP] Fila  276 | ID: 1094897424           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  276 | ID: 1094897424           | BARRERA TORRES LUIS ALBERTO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  277 | ID: 1007981275           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  277 | ID: 1007981275           | SUPERTIENDA EL ROMPOINT | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  278 | ID: 41948019             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  278 | ID: 41948019             | GOMEZ MONTOYA CAROLINA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  279 | ID: 1094937023           | DROGUERIA KOL DESCUENTOS
+[⚠️ SKIP] Fila  280 | ID: 24497627             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  280 | ID: 24497627             | BUITRAGO BUITRAGO OLGA LUCIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  281 | ID: 9807872              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  281 | ID: 9807872              | CAMPO . JOSE ELIVER | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  282 | ID: 6011424              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  282 | ID: 6011424              | MOSCOSO SINDICUE ARIULFO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  283 | ID: 1097034601           | DROGUERÍA QUINTAS DE LA FACHADA
+[❌ FAIL] Fila  284 | ID: 1094905585           | TIENDA DETODITO | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[❌ FAIL] Fila  285 | ID: 42110517             | TIENDA EL JORDAN | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+[✅ OK]  Fila  286 | ID: 18494975             | TIENDA EL REGRESO
+[✅ OK]  Fila  287 | ID: 1094964172           | ANGUIE LORENA PULIDO GONZALEZ
+[⚠️ SKIP] Fila  288 | ID: 33815025             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  288 | ID: 33815025             | ORJUELA  ESPITIA MARLENY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  289 | ID: 18410776             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  289 | ID: 18410776             | MEJIA  AGUDELO LUIS GONZALO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  290 | ID: 230971               | TIENDA EL TIO FERCHO
+[✅ OK]  Fila  291 | ID: 41913508             | TIENDA EL AGRADO
+[✅ OK]  Fila  292 | ID: 1094893235           | MISCELANEA LA SEXTA
+[⚠️ SKIP] Fila  293 | ID: 94434654             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  293 | ID: 94434654             | FLORES HENAO JOHN FREDY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  294 | ID: 11933555818          | TDA LA TRADICION
+[✅ OK]  Fila  295 | ID: 25026056             | VARIEDADES PAULIS
+[✅ OK]  Fila  296 | ID: 41914177             | TOA BLANCA
+[✅ OK]  Fila  297 | ID: 9770352              | TIENDA EL JARDIN
+[✅ OK]  Fila  298 | ID: 24814661             | TIENDA MARTHA
+[✅ OK]  Fila  299 | ID: 24816403             | TIENDA YURI
+[✅ OK]  Fila  300 | ID: 39563625             | DELICIAS DEL TRIGO
+[✅ OK]  Fila  301 | ID: 4578621              | TDA JANETH
+
+--- RESUMEN FINAL ---
+Total: 300 | Exitosos: 298 | Fallidos: 2
+Tiempo total: 9737.57s | Promedio: 32.46s por registro
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 11:45:30
+============================================================
+[⚠️ SKIP] Fila    2 | ID: 18393753             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila    2 | ID: 18393753             | SUPERTIENDA MISCELANEA VILLA ASTRID | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila    3 | ID: 5360838              | TIENDA EL AREPAZO DORY
+[✅ OK]  Fila    4 | ID: 4425849              | PORTELA  VALENCIA JOSE NOEL
+[✅ OK]  Fila    5 | ID: 1099709847           | TIENDA EL CACIQUE
+[⚠️ SKIP] Fila    6 | ID: 1097394481           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    6 | ID: 1097394481           | GONZALEZ PARDO  ANYIE JHOANA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila    7 | ID: 31158050             | LOPEZ DE-RODRIGUEZ BLANCA
+[⚠️ SKIP] Fila    8 | ID: 1082989318           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila    8 | ID: 1082989318           | MAS POR MENOS LA 10 | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila    9 | ID: 7553677              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila    9 | ID: 7553677              | TIENDA SAN VICENTE | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila   10 | ID: 1005207146           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   10 | ID: 1005207146           | MI TIENDECITA LA ISABELO | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila   11 | ID: 9738795              | TIENDA ANGEL
+[✅ OK]  Fila   12 | ID: 1013600560           | MIGUEL ANTONIO LLANOS ZANABRIA
+[✅ OK]  Fila   13 | ID: 98468736             | TIENDA GENESIS DON CESAR
+[✅ OK]  Fila   14 | ID: 41931340             | TIENDA
+[✅ OK]  Fila   15 | ID: 25021699             | TIENDA 19 -3
+[✅ OK]  Fila   16 | ID: 41871171             | TIENDA CONSU
+[⚠️ SKIP] Fila   17 | ID: 4423026              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   17 | ID: 4423026              | RIOS MUNOZ GILBERTO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   18 | ID: 1006157856           | AUTO SERVICIO LOS GEMELOS
+[✅ OK]  Fila   19 | ID: 24587175             | PAPELERIA FLOR
+[✅ OK]  Fila   20 | ID: 89006295             | LA PLACITA DE MARTICA
+[✅ OK]  Fila   21 | ID: 4422524              | LA GRAN ESQUINA
+[✅ OK]  Fila   22 | ID: 1094887545           | TIENDA JK
+[✅ OK]  Fila   23 | ID: 1094880879           | MISCELANEA OSGRI
+[✅ OK]  Fila   24 | ID: 1000292938           | TIENDA INTER PLAZA MINI MARKET
+[✅ OK]  Fila   25 | ID: 39402532             | TDA LA ESQUINA
+[✅ OK]  Fila   26 | ID: 24812819             | TIENDA LUZ
+[✅ OK]  Fila   27 | ID: 1094935790           | TIENDA MINIMARKET DEL AHORRA
+[✅ OK]  Fila   28 | ID: 41904942             | TIENDA LA 37
+[✅ OK]  Fila   29 | ID: 41913419             | TIENDA MARLE
+[⚠️ SKIP] Fila   30 | ID: 43543856             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   30 | ID: 43543856             | TIENDA DIOS ES AMOR  FE Y ESPERANZA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila   31 | ID: 2236699              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   31 | ID: 2236699              | GONZALES CRUZ  OSCAR LEONARDO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   32 | ID: 51795956             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   32 | ID: 51795956             | VARGAS  HERNANDEZ SIOMARA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   33 | ID: 38204651             | GLADYS CORTES NARVAEZ
+[⚠️ SKIP] Fila   34 | ID: 24130627             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   34 | ID: 24130627             | PINZON  OLIVEROS LUZ DARY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   35 | ID: 15898129             | CARLOS ARTURO VELANDIA AGUDELO
+[✅ OK]  Fila   36 | ID: 25120445             | CARNES Y VERDURAS BONANZA
+[✅ OK]  Fila   37 | ID: 5912942              | AUTOSERIVICIO MARQUITOS
+[✅ OK]  Fila   38 | ID: 4466571              | MERCA GRANOS DEL CAFE
+[✅ OK]  Fila   39 | ID: 71004103             | TIENDA DULCE Y MARY
+[⚠️ SKIP] Fila   40 | ID: 4523920              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   40 | ID: 4523920              | DUQUE RAMIREZ JORGE ALBERTO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   41 | ID: 10594344             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   41 | ID: 10594344             | BOLANOS LOPEZ LORENZO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   42 | ID: 25022507             | MISCELANEA EL KIOSKO
+[⚠️ SKIP] Fila   43 | ID: 24990003             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   43 | ID: 24990003             | PEREZ GUTIERREZ NIEVES  JANET | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   44 | ID: 24583835             | TIENDA LIZ
+[⚠️ SKIP] Fila   45 | ID: 9809470              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   45 | ID: 9809470              | MARTINEZ  ALBEIRO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   46 | ID: 7526083              | DROGUERIA CENTRAL CRR 10
+[✅ OK]  Fila   47 | ID: 9727317              | GUSTAVO MOPAN CORTES
+[✅ OK]  Fila   48 | ID: 33819737             | TIENDA LA MACHA
+[✅ OK]  Fila   49 | ID: 1096034485           | TIENDA LA 10 DE LA TEBAIDA
+[⚠️ SKIP] Fila   50 | ID: 37944923             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   50 | ID: 37944923             | SAAVEDRA ANGULO YANETH | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   51 | ID: 24287198             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   51 | ID: 24287198             | JIMENEZ QUINTERO EMMA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   52 | ID: 1005206538           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   52 | ID: 1005206538           | GONZALEZ GARCIA SANTIAGO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   53 | ID: 1097033745           | MARIA TATIANA  TORO TORO
+[✅ OK]  Fila   54 | ID: 34044648             | TIENDA TERESITA
+[✅ OK]  Fila   55 | ID: 66716406             | PADILLA LIZARAZO LUZ STELLA
+[✅ OK]  Fila   56 | ID: 18466985             | TDA DE TODITO
+[⚠️ SKIP] Fila   57 | ID: 72260366             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   57 | ID: 72260366             | VARGAS ARIZA FERNEY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   58 | ID: 1094922712           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   58 | ID: 1094922712           | MARIN MARIN ISABEL | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   59 | ID: 1096037670           | DROGUERIA SAN RAFAEL
+[✅ OK]  Fila   60 | ID: 29684738             | TIENDA SARITA
+[⚠️ SKIP] Fila   61 | ID: 89004490             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   61 | ID: 89004490             | VANEGAS  BOVEA  HERNAN ALONSO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   62 | ID: 14259340             | VIÑA EXPRESS
+[✅ OK]  Fila   63 | ID: 7562627              | ROJAS PRECIADO JHON CARLOS
+[⚠️ SKIP] Fila   64 | ID: 52730232             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   64 | ID: 52730232             | DAZA PARADA SANDRA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   65 | ID: 10220382             | TIENDA Y REVUELTERIA LOS OLIVOS
+[✅ OK]  Fila   66 | ID: 25025606             | TIENDA JUANDY
+[✅ OK]  Fila   67 | ID: 7507927              | DROGUERIA SANTA MONICA
+[⚠️ SKIP] Fila   68 | ID: 24604803             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   68 | ID: 24604803             | BALVUENA ARCE  SILVIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   69 | ID: 16782297             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   69 | ID: 16782297             | VALENCIA BARRERA DARNEY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   70 | ID: 4408480              | TIENDA URI
+[✅ OK]  Fila   71 | ID: 52830374             | CAFETERIA SALOME
+[✅ OK]  Fila   72 | ID: 41885854             | RIVERA  CASALLAS LUCY ARGELIA
+[✅ OK]  Fila   73 | ID: 94471545             | JASANYEY GONZALEZ OSORIO
+[✅ OK]  Fila   74 | ID: 24675099             | TDA SHAROM
+[✅ OK]  Fila   75 | ID: 24576405             | MISCELANEA MANUELITA
+[✅ OK]  Fila   76 | ID: 1094895932           | TIENDA SOFIGA
+[✅ OK]  Fila   77 | ID: 51721712             | SOLUCIONES GAO
+[✅ OK]  Fila   78 | ID: 1104699474           | LEANDRO ANDRES CHACON SANCHEZ
+[⚠️ SKIP] Fila   79 | ID: 1094911123           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   79 | ID: 1094911123           | SANCHEZ BUITRAGO JENIFFER TATIANA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   80 | ID: 70287103             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   80 | ID: 70287103             | RODAS ZAPATA JUAN JOSE | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   81 | ID: 788543               | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   81 | ID: 788543               | GOMEZ ZABALA  ALBERTO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   82 | ID: 18393422             | DISTRIBUCIONES OMEGA
+[✅ OK]  Fila   83 | ID: 24676070             | LUISA FERNANDA RAMOS
+[✅ OK]  Fila   84 | ID: 52736156             | MINIMERCADO RESERVA DE LA COLINA
+[⚠️ SKIP] Fila   85 | ID: 14138601             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   85 | ID: 14138601             | CORTES CRIOLLO  JOSE EINER | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   86 | ID: 1004826635           | MINIMERCADO CAMINO VERDE
+[✅ OK]  Fila   87 | ID: 1005089065           | GRANERO JHAN CAMILO
+[⚠️ SKIP] Fila   88 | ID: 1094918735           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   88 | ID: 1094918735           | OROZCO CASTIBLANCO VICTOR MARIO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   89 | ID: 1097722639           | MUNOZ SILVA  DERLY CONSTANZA
+[⚠️ SKIP] Fila   90 | ID: 1143865060           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   90 | ID: 1143865060           | RINCON OSORIO JESSICA ANDREA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   91 | ID: 14450708             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   91 | ID: 14450708             | ARROYAVE GRISALES ORLANDO DE JESUS | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   92 | ID: 17305182             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   92 | ID: 17305182             | SUAREZ VARGAS FIDEL | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   93 | ID: 18305007             | DON GILBER
+[⚠️ SKIP] Fila   94 | ID: 18385989             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   94 | ID: 18385989             | BOCANEGRA SANCHEZ JOSE FORNEY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   95 | ID: 24480710             | JULIA JURADO MOSCOSO
+[✅ OK]  Fila   96 | ID: 18413362             | TIENDA JOSE
+[✅ OK]  Fila   97 | ID: 18414188             | DIAZ GIRALDO OMAR
+[⚠️ SKIP] Fila   98 | ID: 18414479             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   98 | ID: 18414479             | ORTEGA GOMEZ OCTAVIO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila   99 | ID: 18416251             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   99 | ID: 18416251             | BARRAGAN VILLANUEVA FABIO JOBANNY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  100 | ID: 21906665             | TIENDA EL PAISA USME DE MONSALVE
+[✅ OK]  Fila  101 | ID: 23381675             | MISCELANEA MULTIVARIEDADES EL SOL
+[✅ OK]  Fila  102 | ID: 24390707             | TIENDA EDILMA
+[✅ OK]  Fila  103 | ID: 36785108             | ACOSTA . MARIA DEL ROSARIO
+[✅ OK]  Fila  104 | ID: 24486771             | ALIDA RODRIGUEZ
+[✅ OK]  Fila  105 | ID: 24487576             | CASTANO DE_ARANGO MARIA
+[⚠️ SKIP] Fila  106 | ID: 24488728             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  106 | ID: 24488728             | GRANADA SANCHEZ GLADYS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  107 | ID: 24552693             | YAMILE ANDREA CORREA CARDONA
+[✅ OK]  Fila  108 | ID: 24673305             | TIENDA INMAGAY
+[✅ OK]  Fila  109 | ID: 7518644              | TIENDA MEDINA LA 11
+[✅ OK]  Fila  110 | ID: 1094896980           | BOHEMIA STUDIO PELUQUERIA
+[⚠️ SKIP] Fila  111 | ID: 24808880             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  111 | ID: 24808880             | SEPULVEDA GARRO MARIA ALPIDIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  112 | ID: 24809008             | KIOSKO LAURA
+[✅ OK]  Fila  113 | ID: 24809306             | TIENDA DONDE SIRLEY
+[✅ OK]  Fila  114 | ID: 24811437             | TIENDA LA SUIZA
+[✅ OK]  Fila  115 | ID: 24815592             | FHARMA EXITO
+[✅ OK]  Fila  116 | ID: 24988058             | TIENDA MISCELANEA LOS QUINDOS
+[⚠️ SKIP] Fila  117 | ID: 24989352             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  117 | ID: 24989352             | BELTRAN OROZCO BEATRIZ DEL SOCORRO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  118 | ID: 1118237047           | TIENDA SYM
+[⚠️ SKIP] Fila  119 | ID: 25459221             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  119 | ID: 25459221             | STERLING GRANADOS LUZ MARINA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  120 | ID: 28739868             | TIENDA LA SONRISA DE LOS QUINDOS
+[✅ OK]  Fila  121 | ID: 28816192             | EMILCE DIAZ PENA
+[✅ OK]  Fila  122 | ID: 3133208              | LUNA RAMOS RUBEN DARIO
+[⚠️ SKIP] Fila  123 | ID: 31886348             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  123 | ID: 31886348             | CAMPO MORALES FANNY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  124 | ID: 38257718             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  124 | ID: 38257718             | REYES ORJUELA OLGA LUCIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  125 | ID: 39635016             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  125 | ID: 39635016             | VARGAS RINCON ROSALBA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  126 | ID: 39641258             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  126 | ID: 39641258             | VARON ROSA ELENA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  127 | ID: 41896118             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  127 | ID: 41896118             | GUERRERO MESA LUZ ENID | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  128 | ID: 41905997             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  128 | ID: 41905997             | VERANO   LUZ ELVIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  129 | ID: 41914360             | TIENDA JAVI MAR
+[⚠️ SKIP] Fila  130 | ID: 41914692             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  130 | ID: 41914692             | LOPEZ MONTOYA NANCY STELLA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  131 | ID: 41917642             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  131 | ID: 41917642             | LOPEZ LOZANO AMPARO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  132 | ID: 41927854             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  132 | ID: 41927854             | JIMENEZ QUINONEZ CLARA LILIANA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  133 | ID: 41941633             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  133 | ID: 41941633             | AGUIRRE  GLORIA AMPARO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  134 | ID: 41941825             | TIENDA ELENA
+[⚠️ SKIP] Fila  135 | ID: 41944976             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  135 | ID: 41944976             | CANO ESTRELLA PAULA ANDREA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  136 | ID: 42013053             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  136 | ID: 42013053             | FRANCO CASTANO MARIA ELENA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  137 | ID: 42097293             | LOPEZ . MARTA LUCIA
+[✅ OK]  Fila  138 | ID: 43466675             | BEATRIZ ELENA GARCIA ALZATE
+[⚠️ SKIP] Fila  139 | ID: 43533443             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  139 | ID: 43533443             | RENDON ALVAREZ ADRIANA PATRICIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  140 | ID: 9800760              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  140 | ID: 9800760              | TIENDA Y VARIEDADES PEREIRA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  141 | ID: 4465803              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  141 | ID: 4465803              | SERNA TRUJILLO LUIS ALBEIRO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  142 | ID: 4466851              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  142 | ID: 4466851              | RUIZ GONZALEZ JORGE DE JESUS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  143 | ID: 4524129              | RIVERA . JOSE NORBEY
+[✅ OK]  Fila  144 | ID: 51831851             | MORALES RODRIGUEZ ROSA
+[⚠️ SKIP] Fila  145 | ID: 52276607             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  145 | ID: 52276607             | PEREZ OLAYA MARIA LEONOR | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  146 | ID: 5916034              | MISCELANEA OSORIO CAMPO
+[✅ OK]  Fila  147 | ID: 6465780              | RAPITIENDA DON HUGO
+[✅ OK]  Fila  148 | ID: 29157842             | DROGUERIA DROGUISALUD
+[⚠️ SKIP] Fila  149 | ID: 38196581             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  149 | ID: 38196581             | MARTINEZ RODRIGUEZ ISLENA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  150 | ID: 70221161             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  150 | ID: 70221161             | CARTAGENA  OLIVEROS  LUIS MARIANO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  151 | ID: 24815786             | TIENDA Y BEBIDA MARIA SOFI
+[⚠️ SKIP] Fila  152 | ID: 1272420              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  152 | ID: 1272420              | ALMACEN CALIDAD | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  153 | ID: 1094922119           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  153 | ID: 1094922119           | GUTIEREZ GONZALES KATERINE | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  154 | ID: 75202209             | LIBERTO ANTONIO PARRA
+[✅ OK]  Fila  155 | ID: 7560853              | MISCELANEA Y VENTANILLA LA GRAN ESQUINA DE NENE
+[✅ OK]  Fila  156 | ID: 28901109             | VARIEDADES DORA
+[✅ OK]  Fila  157 | ID: 76357258             | TIENDA Y PANADERIA LA PATRIA
+[✅ OK]  Fila  158 | ID: 79535019             | MISCELANEA CARLOS ALBERTO
+[⚠️ SKIP] Fila  159 | ID: 89008724             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  159 | ID: 89008724             | MUNOZ  ROMERO CARLOS ALBERTO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  160 | ID: 42142264             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  160 | ID: 42142264             | LANCHEROS GAVIRIA ANA DELIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  161 | ID: 38203487             | TDA JIRETH
+[✅ OK]  Fila  162 | ID: 9726021              | TIENDA LA QUIMBITA
+[⚠️ SKIP] Fila  163 | ID: 9734338              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  163 | ID: 9734338              | HOYOS GONZALEZ JORGUE IVAN | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  164 | ID: 9737876              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  164 | ID: 9737876              | CORTES TORO JORGE IVAN | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  165 | ID: 9771068              | FRUTAS Y VERDURAS ALASCA
+[✅ OK]  Fila  166 | ID: 1001663938           | TIENDA Y MICELANEA NESTOR
+[⚠️ SKIP] Fila  167 | ID: 33815373             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  167 | ID: 33815373             | GIRALDO OSORIO GLORIA PATRICIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  168 | ID: 1007534674           | SUPERMERCADO PORVENIR DE ALCALA
+[✅ OK]  Fila  169 | ID: 41935583             | TIENDA MARYULI
+[✅ OK]  Fila  170 | ID: 1087202405           | TIENDA EL PROGRESO
+[⚠️ SKIP] Fila  171 | ID: 1088247788           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  171 | ID: 1088247788           | TIENDA Y LICORES LUCHO | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  172 | ID: 1088324477           | MISCELANEA LA ESMERALDA
+[✅ OK]  Fila  173 | ID: 1094879637           | TIENDA NUESTRA SENORA DE LA PAZ
+[✅ OK]  Fila  174 | ID: 1094882035           | TIENDA LA 12
+[✅ OK]  Fila  175 | ID: 1094882593           | VENTANILLA Y MISCELANEA MY M
+[✅ OK]  Fila  176 | ID: 41922494             | TIENDA Y MISCELANEA BACHUE
+[⚠️ SKIP] Fila  177 | ID: 1094898732           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  177 | ID: 1094898732           | AGUDELO  BELTRAN EDWIN FERNANDO | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  178 | ID: 76318356             | MISCELANEA MERCATODO
+[⚠️ SKIP] Fila  179 | ID: 10015991             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  179 | ID: 10015991             | TEJADA CARDONA LEONARDO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  180 | ID: 1094926870           | HOTEL EL DESCANSO QUINDIANO
+[✅ OK]  Fila  181 | ID: 1094937544           | TIENDA EL REMANZO
+[✅ OK]  Fila  182 | ID: 1094957778           | TIENDA MEDELLÍN
+[✅ OK]  Fila  183 | ID: 1094967893           | PINTO  RODAS YEFERSON ALEJANDRO
+[✅ OK]  Fila  184 | ID: 94253515             | MINIMERCADO EL PAISA
+[✅ OK]  Fila  185 | ID: 1095268213           | JUAN CARLOS CHAGUENDO IPIA
+[⚠️ SKIP] Fila  186 | ID: 1096245198           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  186 | ID: 1096245198           | ARIZA SANCHEZ ANGIE PAOLA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  187 | ID: 1097037223           | MARTIN LOPEZ BUITRAGO
+[⚠️ SKIP] Fila  188 | ID: 1098436501           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  188 | ID: 1098436501           | CARNES Y VIVERES EL REY | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  189 | ID: 18611200             | TIENDA Y CACHARRERIA RYR
+[⚠️ SKIP] Fila  190 | ID: 4427327              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  190 | ID: 4427327              | SOTO  MARCO JULIO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  191 | ID: 1118124337           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  191 | ID: 1118124337           | MISCELANEA CUYABRAS | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  192 | ID: 1118557621           | TDA DIANA
+[⚠️ SKIP] Fila  193 | ID: 13929415             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  193 | ID: 13929415             | MERCACENTRO PINARES | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  194 | ID: 18390263             | RAMIRO AUGUSTO LONDONO RAMIREZ
+[✅ OK]  Fila  195 | ID: 15986615             | LOPEZ NELSON ALBERTO
+[✅ OK]  Fila  196 | ID: 16267828             | EDGAR SALAZAR
+[✅ OK]  Fila  197 | ID: 40186080             | FRUTAS Y VERDURAS MILE
+[⚠️ SKIP] Fila  198 | ID: 41926660             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  198 | ID: 41926660             | DIAZ PALMA  SANDRA LILIANA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  199 | ID: 1096007001           | LA TIENDA DE PATI
+[⚠️ SKIP] Fila  200 | ID: 7504534              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  200 | ID: 7504534              | MISCELANEA Y CACHARRERIA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  201 | ID: 18417657             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  201 | ID: 18417657             | MILLAN ORTIZ ALEXANDER | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  202 | ID: 24606071             | PATINO BUSTAMANTE MARIA CRISTINA
+[⚠️ SKIP] Fila  203 | ID: 41947030             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  203 | ID: 41947030             | VENTANILLA MILENA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  204 | ID: 18469034             | POLLOS  HERMANOS
+[⚠️ SKIP] Fila  205 | ID: 10245252             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  205 | ID: 10245252             | GIRALDO JAIME | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  206 | ID: 18492698             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  206 | ID: 18492698             | MELO  MELO JUAN PABLO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  207 | ID: 18494121             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  207 | ID: 18494121             | LUIS FERNANDO CORTES  PULIDO | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  208 | ID: 24604524             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  208 | ID: 24604524             | TORRES ZULUAGA MARTHA LIGIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  209 | ID: 20394797             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  209 | ID: 20394797             | NIETO TRIANA CECILIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  210 | ID: 20429043             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  210 | ID: 20429043             | OSTOS  ERCILIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  211 | ID: 20633556             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  211 | ID: 20633556             | CASTANEDA CAICEDO PAULA HERCILIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  212 | ID: 24815248             | PAOLA ANDREA GIRALDO RAMIREZ
+[✅ OK]  Fila  213 | ID: 2194887              | MICELANEA DEISY PAOLA
+[⚠️ SKIP] Fila  214 | ID: 21981037             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  214 | ID: 21981037             | CORDOBA  LINA MARIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  215 | ID: 1022397523           | MISCELANEA FRESH FRUVER YOTROS
+[✅ OK]  Fila  216 | ID: 41958323             | TIENDA LA GARCITA
+[✅ OK]  Fila  217 | ID: 24471188             | LUCIA ORTIZ SANABRIA
+[✅ OK]  Fila  218 | ID: 24474665             | TIENDA LA PRIMOROSA
+[✅ OK]  Fila  219 | ID: 1098307728           | BENTANILLA BINCHI
+[⚠️ SKIP] Fila  220 | ID: 24485584             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  220 | ID: 24485584             | YANGANA  HORMIGA   EDILMA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  221 | ID: 24487980             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  221 | ID: 24487980             | RAMIREZ CARDONA MARIA VIRGELINA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  222 | ID: 24488671             | TIENDA MARTICA
+[⚠️ SKIP] Fila  223 | ID: 24497555             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  223 | ID: 24497555             | CAICEDO CARDENAS LUZ MERY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  224 | ID: 43447025             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  224 | ID: 43447025             | CEBALLOS BETANCUR SONIA DEL SO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  225 | ID: 24497936             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  225 | ID: 24497936             | JOVEN SANTANILLA GLORIA NIDIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  226 | ID: 41961985             | TIENDA FRUVER TOMATICOS
+[⚠️ SKIP] Fila  227 | ID: 1094895245           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  227 | ID: 1094895245           | DUQUE VALENCIA  CHRLY MARICELA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  228 | ID: 24572767             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  228 | ID: 24572767             | TIENDA RUBI | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  229 | ID: 24573767             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  229 | ID: 24573767             | VASQUEZ CARDENAS LUZ MERY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  230 | ID: 24579145             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  230 | ID: 24579145             | HENAO BRAVO JANETH | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  231 | ID: 7535925              | DROGUERIA NORTE
+[✅ OK]  Fila  232 | ID: 9817177              | TIENDA SAN JOSE
+[⚠️ SKIP] Fila  233 | ID: 29330765             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  233 | ID: 29330765             | MONCADA PALACIO ALBA DENNY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  234 | ID: 24586861             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  234 | ID: 24586861             | BERRIO  RIOS  ANGELINA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  235 | ID: 21768932             | MISCELANEA CLARY
+[✅ OK]  Fila  236 | ID: 24602085             | TIENDA CASA VERDE
+[⚠️ SKIP] Fila  237 | ID: 24602340             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  237 | ID: 24602340             | CHICA RENDON  MIRYAM | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  238 | ID: 4524243              | ESTANQUILLO CENTRAL
+[✅ OK]  Fila  239 | ID: 4523837              | CIGARRERIA LIVAN E PENA FAJARD
+[✅ OK]  Fila  240 | ID: 4523718              | TIENDA EL TREBOL
+[✅ OK]  Fila  241 | ID: 24605311             | VARIEDADES Y PAPELERIA TODO UTIL
+[⚠️ SKIP] Fila  242 | ID: 24605466             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  242 | ID: 24605466             | PATINO HERRERA SANDRA PATRICIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  243 | ID: 24660164             | MICELANEA HUILA
+[✅ OK]  Fila  244 | ID: 24989183             | TIENDA LA PLAZITA
+[✅ OK]  Fila  245 | ID: 1097033922           | EM FAMIDROGAS
+[✅ OK]  Fila  246 | ID: 51949192             | TIENDA OBRERO TEBAIDA
+[✅ OK]  Fila  247 | ID: 41886549             | VENTANILLA TIO RICO
+[✅ OK]  Fila  248 | ID: 24675031             | OLGA LUCIA GUALTEROS LOZANO
+[✅ OK]  Fila  249 | ID: 24686144             | TIENDA LA AMISTAD
+[✅ OK]  Fila  250 | ID: 41961635             | MIASCELANEA PLAZA CENTRO
+[✅ OK]  Fila  251 | ID: 9772953              | MINIMARKET QUINONEZ
+[✅ OK]  Fila  252 | ID: 24815711             | VARIEDADES DOBLE A
+[⚠️ SKIP] Fila  253 | ID: 24919292             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  253 | ID: 24919292             | VENTANILLA Y BILLARES LA 64 | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  254 | ID: 41915825             | CAFETERIA CAFETACUBA
+[✅ OK]  Fila  255 | ID: 24495218             | CARDONA GOMEZ RUBIEL
+[⚠️ SKIP] Fila  256 | ID: 24989788             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  256 | ID: 24989788             | SALAS ZAMORANO LUZ MARINA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  257 | ID: 6254459              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  257 | ID: 6254459              | VILLEGAS CASTANO  EDIER | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  258 | ID: 41963198             | FERRE-ALCOSTO
+[✅ OK]  Fila  259 | ID: 25021012             | MISCELANEA DISTRIHUEVOS
+[✅ OK]  Fila  260 | ID: 25021136             | TIENDA MARTHA
+[⚠️ SKIP] Fila  261 | ID: 1097039680           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  261 | ID: 1097039680           | AUTOSERVICIO LA 10 | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  262 | ID: 25023765             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  262 | ID: 25023765             | SERNA MUÑOZ ADELIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  263 | ID: 19223424             | PEDRO PASCASIO MARTINEZ
+[⚠️ SKIP] Fila  264 | ID: 25025361             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  264 | ID: 25025361             | GASPAR   ADELAIDA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  265 | ID: 25026473             | PEREZ . LILIANA
+[✅ OK]  Fila  266 | ID: 25026806             | MISCELANEA STEFY
+[✅ OK]  Fila  267 | ID: 25100311             | OLGA MARINA SOTO
+[⚠️ SKIP] Fila  268 | ID: 24472215             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  268 | ID: 24472215             | TABARES HERRERA ALEYDA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  269 | ID: 25161644             | TIENDA DANNIX
+[✅ OK]  Fila  270 | ID: 2517589              | FRUTERIA UNIVERSAL
+[✅ OK]  Fila  271 | ID: 25196335             | SOTO  CANO RUBI LILIANA
+[⚠️ SKIP] Fila  272 | ID: 25201164             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  272 | ID: 25201164             | CANO DE_SOTO MARIA MARGARITA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  273 | ID: 25233634             | CAMPIMERCADO LAS 3B
+[⚠️ SKIP] Fila  274 | ID: 28764356             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  274 | ID: 28764356             | MARGARITA AGUIRRE DE ARCILA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  275 | ID: 28900934             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  275 | ID: 28900934             | MURILLO MARTINEZ NUBIOLA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  276 | ID: 28946093             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  276 | ID: 28946093             | ROJAS DE AVILA LUZ STELLA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  277 | ID: 7549473              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  277 | ID: 7549473              | CAMACHO GODOY HECTOR FABIO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  278 | ID: 29332410             | MELVA MARTINEZ ROJAS
+[⚠️ SKIP] Fila  279 | ID: 4422582              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  279 | ID: 4422582              | CORREA TABARES  HUMBERTO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  280 | ID: 29810676             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  280 | ID: 29810676             | TIENDA EDY | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  281 | ID: 29812121             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  281 | ID: 29812121             | DIAZ . SOLANGEL | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  282 | ID: 29812347             | MARTINEZ . MARIA LIGIA
+[✅ OK]  Fila  283 | ID: 6461553              | CASPETE BATALLON
+[✅ OK]  Fila  284 | ID: 30225686             | DORELEY ESCOBAR GUISADO
+[✅ OK]  Fila  285 | ID: 30339389             | TIENDA SAMI
+[✅ OK]  Fila  286 | ID: 31142648             | ANA TERESA DELGADO MORA
+[✅ OK]  Fila  287 | ID: 1094907334           | DROGUERIA PACIFIK
+[✅ OK]  Fila  288 | ID: 31222837             | TIENDA TIFANYSAN
+[⚠️ SKIP] Fila  289 | ID: 32837132             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  289 | ID: 32837132             | PEREZ DE LA HOZ PAOLA MERCEDES | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  290 | ID: 1092455121           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  290 | ID: 1092455121           | RAPITIENDA JAEL | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  291 | ID: 16051882             | TIENDA Y MISCELANEA LA 13
+[✅ OK]  Fila  292 | ID: 1097039707           | SEBASTIAN ARIAS MUNOZ
+[⚠️ SKIP] Fila  293 | ID: 33815076             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  293 | ID: 33815076             | CASTELLANOS HENAO DIANA PATRICIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  294 | ID: 33819573             | TIENDA DANNY
+[✅ OK]  Fila  295 | ID: 33815812             | TIENDA EUROPEA
+[✅ OK]  Fila  296 | ID: 33819891             | GONZALEZ VELASCO LUZ PIEDAD
+[✅ OK]  Fila  297 | ID: 33819962             | MISCELANEA MARTHA LU
+[✅ OK]  Fila  298 | ID: 37696821             | LA ESQUINA DE DANI
+[✅ OK]  Fila  299 | ID: 41904327             | TIENDA COLANCHITO
+[✅ OK]  Fila  300 | ID: 40923674             | TIENDA SANTAMARIA
+[✅ OK]  Fila  301 | ID: 41117013             | VENTANILLA LUCY
+[⚠️ SKIP] Fila  302 | ID: 41871405             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  302 | ID: 41871405             | CEBALLOS RANGEL MARIA EUGENIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  303 | ID: 24605216             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  303 | ID: 24605216             | CASTANO GUTIERREZ DIANA DABEIDA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  304 | ID: 41243839             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  304 | ID: 41243839             | TIENDA CARDENAS | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  305 | ID: 41872221             | PAOLA ANDREA LOPEZ HERNANDEZ
+[✅ OK]  Fila  306 | ID: 1096032723           | TIENDA LA GUAPA
+[⚠️ SKIP] Fila  307 | ID: 41891117             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  307 | ID: 41891117             | TIENDA YORKY | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  308 | ID: 41891125             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  308 | ID: 41891125             | GONZALEZ MIRANDA  GLORIA INES | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  309 | ID: 41892236             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  309 | ID: 41892236             | MONJES MENDOZA ANA LUCIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  310 | ID: 41893741             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  310 | ID: 41893741             | HINCAPIE PARRA NURY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  311 | ID: 18435126             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  311 | ID: 18435126             | BERNATE BAHENA JOSE MANUEL | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  312 | ID: 41899834             | MARTHA LUCIA OSORIO BENJUMEA
+[✅ OK]  Fila  313 | ID: 41903836             | MARTHA CECILIA HERNANDEZ ARTEAGA
+[⚠️ SKIP] Fila  314 | ID: 15923675             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  314 | ID: 15923675             | QUINTERO DUQUE JHON FREDY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  315 | ID: 24477537             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  315 | ID: 24477537             | HERNANDEZ RIVERA ALBA LUCY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  316 | ID: 41906663             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  316 | ID: 41906663             | RAMIREZ  MARIA EDNA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  317 | ID: 52555182             | MICELANEA LA 15
+[⚠️ SKIP] Fila  318 | ID: 41909504             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  318 | ID: 41909504             | GARCIA ISAZA LUZ STELLA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  319 | ID: 5991401              | URIEL LEGUIZAMON GOMEZ
+[✅ OK]  Fila  320 | ID: 41910309             | TIENDA ANA MARIA
+[✅ OK]  Fila  321 | ID: 4408383              | EL MIRADOR
+[⚠️ SKIP] Fila  322 | ID: 41912853             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  322 | ID: 41912853             | MARTINEZ GONZALEZ DEYANIRA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  323 | ID: 41913424             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  323 | ID: 41913424             | BOORQUEZ MONTOYA LUZ PATRICIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  324 | ID: 41913726             | TIENDA MARGARITA
+[✅ OK]  Fila  325 | ID: 41915554             | DOLLY GOMEZ ESPINOSA
+[⚠️ SKIP] Fila  326 | ID: 41915717             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  326 | ID: 41915717             | LUGO RENGIFO LUCELLY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  327 | ID: 24606669             | MARIA AMPARO GOMEZ GARCIA
+[✅ OK]  Fila  328 | ID: 24672977             | TIENDA VARIEDADES MARINA
+[⚠️ SKIP] Fila  329 | ID: 41918696             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  329 | ID: 41918696             | BEDOYA CORREA LUZ EDIT | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  330 | ID: 41919732             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  330 | ID: 41919732             | LONDOÑO OLARTE LUZ MARINA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  331 | ID: 41921112             | MARTHA HELENA LONDOÑO OSORIO
+[✅ OK]  Fila  332 | ID: 41921404             | TIENDA ELI
+[✅ OK]  Fila  333 | ID: 41924867             | IBARGUEN ANGULO FANNY
+[✅ OK]  Fila  334 | ID: 41962486             | TIENDA BOMBA JESS
+[✅ OK]  Fila  335 | ID: 41926871             | TIENDA EL VAIVEN
+[✅ OK]  Fila  336 | ID: 41929494             | TIENDA EL MILAGRO
+[✅ OK]  Fila  337 | ID: 41930105             | LOPEZ   LOPEZ  MARLENY
+[⚠️ SKIP] Fila  338 | ID: 41930755             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  338 | ID: 41930755             | LUZENITH  ESPINOSA ESPINOSA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  339 | ID: 41931361             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  339 | ID: 41931361             | TAFUR LOZANO LILIANA MARIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  340 | ID: 41934734             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  340 | ID: 41934734             | CASTANO CEBALLOS MARTA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  341 | ID: 1094959397           | MARKET ALAMOS 23
+[⚠️ SKIP] Fila  342 | ID: 41939252             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  342 | ID: 41939252             | SANCHEZ PULGARIN FLOR ALBA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  343 | ID: 25024465             | EL DESCANSO DE YOLI
+[⚠️ SKIP] Fila  344 | ID: 41941696             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  344 | ID: 41941696             | TIENDA DIANA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  345 | ID: 41942641             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  345 | ID: 41942641             | TIENDA EMANUEL | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  346 | ID: 41948068             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  346 | ID: 41948068             | TIENDA SANDRA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  347 | ID: 41952683             | DOLLY CHALA NARVAEZ
+[⚠️ SKIP] Fila  348 | ID: 41953561             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  348 | ID: 41953561             | GOMEZ URREA CLAUDIA PATRICIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  349 | ID: 12600953             | EL COSTENO
+[⚠️ SKIP] Fila  350 | ID: 41962345             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  350 | ID: 41962345             | LOPEZ  DIANA MARIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  351 | ID: 7546120              | DROGUERIA UNIDROGAS
+[⚠️ SKIP] Fila  352 | ID: 41963035             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  352 | ID: 41963035             | PACHECO LONDONO DEYSI LORENA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  353 | ID: 24497805             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  353 | ID: 24497805             | ANDUQUIA PALADINES LUZ STELLA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  354 | ID: 43079169             | MISCELANEA DE ANGELA
+[✅ OK]  Fila  355 | ID: 18490419             | LA FONDA DE OMAIRA
+[⚠️ SKIP] Fila  356 | ID: 43642809             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  356 | ID: 43642809             | GONZALEZ CEBALLOS MARIA IRENE | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  357 | ID: 4372253              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  357 | ID: 4372253              | ORTIZ BERNAL JHEISON ANDRES | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  358 | ID: 4422440              | LOPEZ TEJADA NELSON ANTONIO
+[✅ OK]  Fila  359 | ID: 24989124             | MISCELANEA CHILA
+[⚠️ SKIP] Fila  360 | ID: 1038358710           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  360 | ID: 1038358710           | BEDOYA BEDOYA LEIDY JOHANNA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  361 | ID: 4423471              | MISCELANEA EL PAISA FILANDIA
+[⚠️ SKIP] Fila  362 | ID: 4428429              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  362 | ID: 4428429              | EL ZAFIRO | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  363 | ID: 4452052              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  363 | ID: 4452052              | CORREA RIVERA ANTONIO JOSE | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  364 | ID: 4459950              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  364 | ID: 4459950              | PUERTA GARCIA EVELIO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  365 | ID: 24987631             | GOMEZ DE_OLIVEROS MARIEN
+[✅ OK]  Fila  366 | ID: 4376350              | VENTANILLA GERONIMO
+[✅ OK]  Fila  367 | ID: 4524357              | TIENDA LA 10
+[✅ OK]  Fila  368 | ID: 16627976             | DROGUERIA COORSALUD
+[⚠️ SKIP] Fila  369 | ID: 4551702              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  369 | ID: 4551702              | GRAJALES AGUDELO DANILO DE JESUS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  370 | ID: 1094892112           | HURTADO MURIEL MAGOY
+[⚠️ SKIP] Fila  371 | ID: 46641303             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  371 | ID: 46641303             | PARRA OSPINA MARIA GRIMANEZA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  372 | ID: 1110571452           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  372 | ID: 1110571452           | RAMIREZ FLOREZ LEEZA DAISELA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  373 | ID: 70111694             | SUPERTIENDA MIXTA PEDRO A RAMI
+[⚠️ SKIP] Fila  374 | ID: 52036808             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  374 | ID: 52036808             | ARBOLEDA SANTOS EDY | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  375 | ID: 52040860             | OSPINA BELTRAN OLGA LILIANA
+[✅ OK]  Fila  376 | ID: 53039840             | MICELANEA Y TIENDA LA FACHADA
+[⚠️ SKIP] Fila  377 | ID: 54257908             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  377 | ID: 54257908             | TIENDA ENTRE LOMAS | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  378 | ID: 1098313532           | MISCELANEA LA 15
+[✅ OK]  Fila  379 | ID: 5884207              | TIENDA LOS DOS TIOS
+[⚠️ SKIP] Fila  380 | ID: 5910882              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  380 | ID: 5910882              | ACOSTA CARDENAS URIEL ANGEL | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  381 | ID: 1094940369           | TIENDA ALVI
+[⚠️ SKIP] Fila  382 | ID: 6145356              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  382 | ID: 6145356              | GONZALEZ  CONDE  JESUS AMADEO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  383 | ID: 6211480              | VALENCIA AVALO NORBERTO
+[⚠️ SKIP] Fila  384 | ID: 6512957              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  384 | ID: 6512957              | FRUVER TIENDA Y REVUELTERIA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  385 | ID: 70696234             | DISTRIBUCIONES LA COLOMBIANA TIENDA MIXTA
+[✅ OK]  Fila  386 | ID: 65632255             | TOVAR GUEVATA MARIA CRISTINA
+[✅ OK]  Fila  387 | ID: 65784465             | TIENDA LA TIA
+[✅ OK]  Fila  388 | ID: 900294017            | CACHARRERIA LA 17
+[⚠️ SKIP] Fila  389 | ID: 66962683             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  389 | ID: 66962683             | AMAYA VALENCIA LUZ ESTELLA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  390 | ID: 70253886             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  390 | ID: 70253886             | MUNETON ALZATE GERMAN DARIO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  391 | ID: 1059814265           | SUPERTIENDA NIAGARA DE LA 15
+[✅ OK]  Fila  392 | ID: 71935969             | RAUL ALBERTO TREJOS
+[✅ OK]  Fila  393 | ID: 73595273             | PANADERIA LA GRAN BENDICION
+[⚠️ SKIP] Fila  394 | ID: 7502782              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  394 | ID: 7502782              | TIENDA MARCELA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  395 | ID: 7506524              | TIENDA LAS BRISAS
+[✅ OK]  Fila  396 | ID: 7504311              | TIENDA LA TRAMPITA
+[✅ OK]  Fila  397 | ID: 7507569              | GONZALEZ . ALBERTO
+[⚠️ SKIP] Fila  398 | ID: 75083968             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  398 | ID: 75083968             | JESUS ALBEIRO GONZALES MEDINA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  399 | ID: 7510039              | TIENDA LOS ABUELOS
+[✅ OK]  Fila  400 | ID: 7511074              | DIEGO CORREA QUINTERO
+[⚠️ SKIP] Fila  401 | ID: 15261280             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  401 | ID: 15261280             | URIBE VELASQUEZ CARLOS ENRIQUE | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  402 | ID: 7527263              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  402 | ID: 7527263              | MORALES  MUÑOZ JAVIER | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  403 | ID: 1097722069           | FRUTAS Y VERDURAS PATO
+[✅ OK]  Fila  404 | ID: 89007308             | CACHARRERIA ESPECIAL
+[⚠️ SKIP] Fila  405 | ID: 7542442              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  405 | ID: 7542442              | ELICELDER OSPINA OSPINA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  406 | ID: 25020490             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  406 | ID: 25020490             | ACEVEDO  CANO  MARIA TERESA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  407 | ID: 7556849              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  407 | ID: 7556849              | RIOS MORALES BERNARDO ANTONIO | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  408 | ID: 24673000             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  408 | ID: 24673000             | COY DE PINEROS MERCEDES | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  409 | ID: 52415961             | SUPERTIENDA MIXTA
+[✅ OK]  Fila  410 | ID: 79922106             | E Y A
+[✅ OK]  Fila  411 | ID: 80048188             | PAPELERIA Y CACHARRERIA LA 50
+[✅ OK]  Fila  412 | ID: 80380449             | MARIO BELTRAN AMAYA
+[⚠️ SKIP] Fila  413 | ID: 89000707             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  413 | ID: 89000707             | ORTIZ GARCIA FRANKLIN | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  414 | ID: 89001197             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  414 | ID: 89001197             | TIENDA BELTRAN | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  415 | ID: 89002996             | VICTOR HUGO JIMEMEZ TRIVIÑO
+[✅ OK]  Fila  416 | ID: 24989569             | DORA LUZ DUQUE RAMIREZ
+[✅ OK]  Fila  417 | ID: 6102704              | SIEMPRE ALEGRE MARKET
+[✅ OK]  Fila  418 | ID: 1094940241           | CAFETERIA EL CAFETERO
+[⚠️ SKIP] Fila  419 | ID: 10200280             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  419 | ID: 10200280             | RIOS HERRERA IVAN DE JESUS | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  420 | ID: 41950928             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  420 | ID: 41950928             | PELAEZ SANABRIA NINI JOHANA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  421 | ID: 94288441             | MONTOYA TABORDA JUAN FERNANDO
+[⚠️ SKIP] Fila  422 | ID: 94479958             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  422 | ID: 94479958             | HENAO GARCIA JOHAN SMITH | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  423 | ID: 96329575             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  423 | ID: 96329575             | OSPINA RAMIREZ GILDARDO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  424 | ID: 96361327             | BARREIRO . LEYTON JAIR
+[✅ OK]  Fila  425 | ID: 9731009              | ALFANET
+[✅ OK]  Fila  426 | ID: 9731060              | TIENDA COMANDO
+[⚠️ SKIP] Fila  427 | ID: 9773239              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  427 | ID: 9773239              | VILLALBA RUIZ JOSE MAURICIO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  428 | ID: 9774629              | DROGUERIA VELASQUEZ
+[⚠️ SKIP] Fila  429 | ID: 41911715             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  429 | ID: 41911715             | PANADERIA DELICIAS DEL CAFETERO | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  430 | ID: 6135399              | RODRIGO GUEVARA
+[✅ OK]  Fila  431 | ID: 41929517             | TIENDA  LA MONA
+[⚠️ SKIP] Fila  432 | ID: 9805363              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  432 | ID: 9805363              | ANDUQUIA CORREA JAVIER | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  433 | ID: 36305978             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  433 | ID: 36305978             | SARRIA JOVEN SAIRA YASMINY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  434 | ID: 42083682             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  434 | ID: 42083682             | PELAEZ  YEPES DANELLY MARIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  435 | ID: 18491714             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  435 | ID: 18491714             | OCAMPO MARTINEZ JOSE ALEXIS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  436 | ID: 1004915260           | MARIA CAMILA CEBALLOS ESCOBAR
+[⚠️ SKIP] Fila  437 | ID: 98512543             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  437 | ID: 98512543             | LOPEZ HERNANDEZ JAIRO ADELMO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  438 | ID: 18492530             | CASA DE PAÑAL LA 15
+[✅ OK]  Fila  439 | ID: 41892371             | ARAGONIA
+[✅ OK]  Fila  440 | ID: 52374126             | MISCELANEA DONDE ZUL
+[⚠️ SKIP] Fila  441 | ID: 41660174             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  441 | ID: 41660174             | ARENAS MURCIA GLORIA CECILIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  442 | ID: 1098311457           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  442 | ID: 1098311457           | MURCIA FANDIÑO YORLEY DANGELY | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  443 | ID: 1031150781           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  443 | ID: 1031150781           | EINER ADRIAN ARIAS VILLEGAS | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  444 | ID: 24497359             | MARIA DEL  SOCORRO BARRERA
+[⚠️ SKIP] Fila  445 | ID: 41914033             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  445 | ID: 41914033             | MELIDA MESA PALACIO | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  446 | ID: 41928044             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  446 | ID: 41928044             | ARENAS  MONTENEGRO  MARIA EUGENIA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  447 | ID: 41963420             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  447 | ID: 41963420             | SANCHEZ VALENCIA LUZ ANDREA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  448 | ID: 5946220              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  448 | ID: 5946220              | DIAZ SIERRA  MAURICIO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  449 | ID: 1094910350           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  449 | ID: 1094910350           | TIENDA FRUVER R 8L | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  450 | ID: 7507251              | TIENDA DONDE LUZ
+[✅ OK]  Fila  451 | ID: 18395186             | TIENDA SAMI
+[✅ OK]  Fila  452 | ID: 41913694             | TIENDA CLARITA
+[✅ OK]  Fila  453 | ID: 18399964             | DROGUERIA
+[⚠️ SKIP] Fila  454 | ID: 18495622             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  454 | ID: 18495622             | BEDOYA SANCHEZ RODOLFO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  455 | ID: 1225090867           | LONDON MERK FRUV
+[✅ OK]  Fila  456 | ID: 24412799             | MARIA ALEYDA CORREA DIAZ
+[⚠️ SKIP] Fila  457 | ID: 24527420             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  457 | ID: 24527420             | RAMOS PARRA MARIA ZULMA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  458 | ID: 24582661             | MARGARITA TOVAR
+[✅ OK]  Fila  459 | ID: 24601085             | TIENDA AYDEE
+[⚠️ SKIP] Fila  460 | ID: 24809463             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  460 | ID: 24809463             | SANCHEZ CRUZ LILIANA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  461 | ID: 24812262             | TIENDA DANNY
+[⚠️ SKIP] Fila  462 | ID: 1094933986           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  462 | ID: 1094933986           | FRANCO JESICA LEIDI | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  463 | ID: 24815597             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  463 | ID: 24815597             | RAMIREZ URIBE YINED | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  464 | ID: 41944121             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  464 | ID: 41944121             | MEJIA GIRALDO SANDRA PATRICIA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  465 | ID: 24602644             | TIENDA BON AIRE
+[✅ OK]  Fila  466 | ID: 41934628             | TIENDA LA 16 DE CIRCACIA
+[✅ OK]  Fila  467 | ID: 29900751             | TIENDA CLAU
+[✅ OK]  Fila  468 | ID: 31944512             | MARIA OFELIA TORO LOPEZ
+[✅ OK]  Fila  469 | ID: 18460398             | MERCADOS POPULARES
+[✅ OK]  Fila  470 | ID: 39785568             | TIENDA ESTELLA
+[⚠️ SKIP] Fila  471 | ID: 40992140             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  471 | ID: 40992140             | ZAMORA BAUTISTA NAIDU | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  472 | ID: 901426190            | TIENDA ATIENDA SURTIMAX
+[⚠️ SKIP] Fila  473 | ID: 900238649            | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  473 | ID: 900238649            | CACHARRERIA MACROCENTRO YA SAS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  474 | ID: 41902946             | TIENDA NANA
+[✅ OK]  Fila  475 | ID: 7525918              | PANADERIA ROSY
+[⚠️ SKIP] Fila  476 | ID: 41922403             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  476 | ID: 41922403             | JARAMILLO GARCES GLORIA LILIANA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  477 | ID: 41922891             | YAQUELINE CARMONA HERRERA
+[⚠️ SKIP] Fila  478 | ID: 41927602             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  478 | ID: 41927602             | RODRIGUEZ ORTIZ GLORIA INES | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  479 | ID: 41930014             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  479 | ID: 41930014             | SANCHEZ  MARIA DEL PILAR | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  480 | ID: 41944169             | TIENDA MILAGRO
+[✅ OK]  Fila  481 | ID: 41945862             | TIENDA LA 93
+[⚠️ SKIP] Fila  482 | ID: 1193567014           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  482 | ID: 1193567014           | MAX ECONOMIA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  483 | ID: 43266783             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  483 | ID: 43266783             | DURANGO ALVAREZ LUZ MARINA | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  484 | ID: 4350773              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  484 | ID: 4350773              | TORO HINCAPIE BERNANDO DE JESUS | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  485 | ID: 4392131              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  485 | ID: 4392131              | CARDONA GRAJALES LUIS ALBERTO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  486 | ID: 4531020              | JUVENAL DE JESUS  HERNADEZ
+[⚠️ SKIP] Fila  487 | ID: 4879043              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  487 | ID: 4879043              | LABRADOR GOMEZ BACCIL GABRIEL | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  488 | ID: 71004379             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  488 | ID: 71004379             | ZULUAGA GIRALDO ANGEL MARIO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  489 | ID: 41922360             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  489 | ID: 41922360             | VALENCIA VALENCIA FERNANDA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  490 | ID: 71647055             | TIENDA LOS SOCIOS DE LA PATRIA
+[✅ OK]  Fila  491 | ID: 7510015              | DONDE LOZA
+[✅ OK]  Fila  492 | ID: 88220351             | ALEXANDER RUIZ CARVAJAL
+[✅ OK]  Fila  493 | ID: 18492254             | MISCELA ARCOIRI
+[⚠️ SKIP] Fila  494 | ID: 89008412             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  494 | ID: 89008412             | JIMENEZ OIME JOVANNI | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  495 | ID: 41901367             | TIENDA J Y V
+[✅ OK]  Fila  496 | ID: 92536328             | SUPERTIENDA LA PRIMICIA
+[✅ OK]  Fila  497 | ID: 9807483              | JOSE RUBIDIO GUAPACHA GUAPACHA
+[✅ OK]  Fila  498 | ID: 9809228              | JOSE LIBARDO GAVIRIA VALENCIA
+[⚠️ SKIP] Fila  499 | ID: 25001471             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  499 | ID: 25001471             | NIETO CARDONA LUZ YANIRA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  500 | ID: 42097280             | MISCELANEA MAFLA
+[⚠️ SKIP] Fila  501 | ID: 24581277             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  501 | ID: 24581277             | SANTIAGO VELASQUEZ RUBELIA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  502 | ID: 24988135             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  502 | ID: 24988135             | GARCIA DE CASTILLO MARIA ARLED | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  503 | ID: 25247310             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  503 | ID: 25247310             | GRAJALES  MARIA LUCENETH | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  504 | ID: 43837741             | PENAGOS JIMNENEZ LUZ DARY
+[⚠️ SKIP] Fila  505 | ID: 4430917              | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  505 | ID: 4430917              | TUSARMA  FABIO DE JESUS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  506 | ID: 51711485             | ADDELINA ROJAS FIGUEROA
+[✅ OK]  Fila  507 | ID: 7563883              | VENTANILLA WILZAIR
+[✅ OK]  Fila  508 | ID: 31992916             | ALBA LUZ CASTAÑO MARIN
+[⚠️ SKIP] Fila  509 | ID: 41899901             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  509 | ID: 41899901             | GONZALEZ   NUSTES RUBIELA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  510 | ID: 1094881996           | MISCELANEA RAPI SERVICIO
+[⚠️ SKIP] Fila  511 | ID: 1114340178           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  511 | ID: 1114340178           | TOSSE BOLANOS  LEYDI MARCELA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  512 | ID: 1094909573           | ANIBAL BOHORQUEZ CORREA
+[✅ OK]  Fila  513 | ID: 19148179             | TIENDA JO
+[⚠️ SKIP] Fila  514 | ID: 4523792              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  514 | ID: 4523792              | TIENDA GINA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  515 | ID: 22174110             | MINIMERCADO  Y PANADERIA LA 42
+[⚠️ SKIP] Fila  516 | ID: 18398616             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  516 | ID: 18398616             | RODRIGUEZ MARENTES JHON JAIVER | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  517 | ID: 24499461             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  517 | ID: 24499461             | NARVAEZ  MONTERO LEIDY LORENA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  518 | ID: 80894030             | CESAR DARIO VILLEGAS ARIAS
+[✅ OK]  Fila  519 | ID: 41924413             | NOELIA OCAMPO BERMUDEZ
+[✅ OK]  Fila  520 | ID: 24605552             | MISCELANEA CARMELITA
+[✅ OK]  Fila  521 | ID: 18436277             | FRUVER LA VINA
+[⚠️ SKIP] Fila  522 | ID: 1097034913           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  522 | ID: 1097034913           | GOMEZ  LOPEZ  VICTOR MANUEL | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  523 | ID: 9075964              | TIENDA MIXTA LA 18
+[⚠️ SKIP] Fila  524 | ID: 1094882077           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  524 | ID: 1094882077           | CORREA LONDONO LUIS ALBERTO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  525 | ID: 25120811             | FARMACIA KARI
+[✅ OK]  Fila  526 | ID: 28929316             | YOLANDA BUITRAGO BERNATE
+
+--- RESUMEN FINAL ---
+Total: 525 | Exitosos: 525 | Fallidos: 0
+Tiempo total: 18343.01s | Promedio: 34.94s por registro
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 17:51:20
+============================================================
+[✅ OK]  Fila    2 | ID: 1054919895           | HERNANDEZ  GRAJALES ELIANA
+[✅ OK]  Fila    3 | ID: 10694540             | MENESES DAZA CARLOS NOLBERTO
+[✅ OK]  Fila    4 | ID: 24603551             | GARCIA ZAPATA  SOFIA
+[✅ OK]  Fila    5 | ID: 1116915816           | MARTINEZ ESCUDERO JAQUELINE
+[✅ OK]  Fila    6 | ID: 901754060            | INVERSIONES SANTANA DEL EJE S.A.S
+[⚠️ SKIP] Fila    7 | ID: 1094878854           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    7 | ID: 1094878854           | LEONEL SOGAMOSO MOISES | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila    8 | ID: 1094887660           | AGUDELO SUAREZ DIEGO FERNANDO
+[✅ OK]  Fila    9 | ID: 1094888065           | GUTIERREZ GOMEZ LILIANA PATRICIA
+[✅ OK]  Fila   10 | ID: 1094893584           | GONZALES  NAYIVE
+[✅ OK]  Fila   11 | ID: 1094900870           | RIOS PALACIOS ALEXANDER
+[⚠️ SKIP] Fila   12 | ID: 1094916737           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   12 | ID: 1094916737           | CHAMORRO SALGADO LUZ ANDREA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   13 | ID: 1094918522           | TORRES RESTREPO PAULA ANDREA
+[✅ OK]  Fila   14 | ID: 1094921271           | ZAMBRANO SANCHEZ ERIKA TATIANA
+[✅ OK]  Fila   15 | ID: 24497704             | VALENCIA  DUQUE BLANCA RUBY
+[✅ OK]  Fila   16 | ID: 10174035             | ESCOBAR PRECIADO INOCENCIO
+[✅ OK]  Fila   17 | ID: 1094939798           | ALVAREZ CARDONA JULIO ALEXIS
+[✅ OK]  Fila   18 | ID: 24529010             | ATEHORTUA LOPEZ DIANA MARIA
+[✅ OK]  Fila   19 | ID: 1097032433           | OCAMPO SALCEDO ANGELICA JANETH
+[✅ OK]  Fila   20 | ID: 7544333              | CARDONA JARAMILLO HECTOR JAIME
+[✅ OK]  Fila   21 | ID: 41930123             | RENGIFO CASTANEDA MONICA
+[⚠️ SKIP] Fila   22 | ID: 1097394493           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   22 | ID: 1097394493           | RAMIREZ GAITAN ANDREA MARISELA | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   23 | ID: 1097726954           | HERNANDEZ SUAZA SANDRA EDITH
+[✅ OK]  Fila   24 | ID: 1098337027           | CASTILLO CARDONA ERIKA TATIANA
+[✅ OK]  Fila   25 | ID: 1099683817           | TAPIAS APARICIO JENIFER ELIANA
+[✅ OK]  Fila   26 | ID: 1099708241           | CASILLAS  GARCIA MONICA VIVIANA
+[⚠️ SKIP] Fila   27 | ID: 1106739201           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   27 | ID: 1106739201           | ARIAS  PEREZ  YURI LUCINDY | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila   28 | ID: 1114786531           | PEREZ ROJAS VIVIANA MARIA
+[⚠️ SKIP] Fila   29 | ID: 24582206             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   29 | ID: 24582206             | PATINO BETANCUR ACENET | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila   30 | ID: 28687766             | SANTA RODRIGUEZ YARID PATRICIA
+[✅ OK]  Fila   31 | ID: 24414217             | HENAO ZAMORA MARIA AMPARO
+[✅ OK]  Fila   32 | ID: 25019748             | HERRERA GARZON EDILCEN
+[✅ OK]  Fila   33 | ID: 30353728             | GIRALDO SALAZAR  EUCARIS
+[✅ OK]  Fila   34 | ID: 1096032488           | MENDOZA ALZATE LEIDY YOHANA
+[✅ OK]  Fila   35 | ID: 1096037331           | RUIZ RENDON IVAN DAVID
+[✅ OK]  Fila   36 | ID: 24497888             | GARZON PINILLA MARLENY
+[✅ OK]  Fila   37 | ID: 41212900             | GARCIA CORREA NIDIA
+[✅ OK]  Fila   38 | ID: 1094928226           | ORJUELA RAMIREZ ESTEFANI
+[✅ OK]  Fila   39 | ID: 24497744             | ALVAREZ HEREDIA MARIA DOLORES
+[✅ OK]  Fila   40 | ID: 1096646364           | LOPEZ AGUIRRE MAYRA ALEJANDRA
+[✅ OK]  Fila   41 | ID: 25017360             | RODRIGUEZ TOBON MARIA MAGNOLIA
+[⚠️ SKIP] Fila   42 | ID: 41896763             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila   42 | ID: 41896763             | LADINO TORRES GLADYS DE JESUS | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila   43 | ID: 41938519             | ESTRADA  LOPEZ MARIA RUBIELA
+[✅ OK]  Fila   44 | ID: 8060703              | SUAREZ  SUAREZ FABIAN ENRIQUE
+[✅ OK]  Fila   45 | ID: 24496672             | GONZALES ROMERO MARIA FRANCENET
+[✅ OK]  Fila   46 | ID: 1097033418           | RESTREPO GALLO MONICA MARIA
+[✅ OK]  Fila   47 | ID: 1272904              | MUNOZ MUNOZ LUIS FERNANDO
+[✅ OK]  Fila   48 | ID: 1096645906           | RIOS CASTRO  JHON FREDY
+[✅ OK]  Fila   49 | ID: 13040127             | ARCOS ROSERO OSCAR LEONARDO
+[✅ OK]  Fila   50 | ID: 25079522             | LOPEZ LOPEZ MARIA LUCERO
+[✅ OK]  Fila   51 | ID: 24498082             | ASTUDILLO GOMEZ ALICIA
+[✅ OK]  Fila   52 | ID: 1096034172           | SANCHEZ   MEZA OVER ELEONAY
+[✅ OK]  Fila   53 | ID: 9805846              | JENEN GIRALDO JESUS REYES
+[✅ OK]  Fila   54 | ID: 41924823             | CIFUENTES SERNA NOHORA
+[✅ OK]  Fila   55 | ID: 24659275             | CELIS CUADROS BLANCA INES
+[✅ OK]  Fila   56 | ID: 1094927702           | ANGARITA GARCIA PAOLA ANDREA
+[✅ OK]  Fila   57 | ID: 24660386             | QUINTERO SALAZAR ESTELA
+[✅ OK]  Fila   58 | ID: 1116130990           | ARISTIZABAL PATINO KAROL BIVIANA
+[✅ OK]  Fila   59 | ID: 41906644             | VASQUEZ PEÑUELA NANCY
+[✅ OK]  Fila   60 | ID: 94193905             | HERRERA MORALES OSCAR ANDRES
+[✅ OK]  Fila   61 | ID: 94193511             | LAURADA HERRERA JOSE LEONARDO
+[✅ OK]  Fila   62 | ID: 9805767              | ARENAS TABORDA ALBERTO
+[✅ OK]  Fila   63 | ID: 94288750             | GIRALDO CARVAJAL DIDIER
+[✅ OK]  Fila   64 | ID: 1143931215           | RODRIGUEZ ZUNIGA MONICA TATIANA
+[✅ OK]  Fila   65 | ID: 10253678             | MUNOZ SEPULVEDA  LEONARDO
+[✅ OK]  Fila   66 | ID: 1808471              | CERON GOMEZ JESUS SIGIFREDO
+[✅ OK]  Fila   67 | ID: 24660854             | RIOS PATINO DORALBA
+[✅ OK]  Fila   68 | ID: 24498861             | TANGARIFE ARENAS ADRIANA
+[✅ OK]  Fila   69 | ID: 41891667             | SANCHEZ CRUZ MARTHA LILIA
+[⚠️ SKIP] Fila   70 | ID: 41948025             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   70 | ID: 41948025             | DIAZ MORALES YULY YAZMID | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila   71 | ID: 4389467              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   71 | ID: 4389467              | GIL BENJUMEA CARLOS ENRIQUE | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila   72 | ID: 94386069             | FLOREZ RUIZ JULIO CESAR
+[✅ OK]  Fila   73 | ID: 43070262             | HENAO GALLEGO MARIA YOLANDA
+[✅ OK]  Fila   74 | ID: 41886723             | CALDERON  MARIN LESBIA
+[✅ OK]  Fila   75 | ID: 25120244             | LOPEZ  ANGEL GLORIA ESPERANZA
+[✅ OK]  Fila   76 | ID: 9801226              | TORRES RESTREPO JAVIER
+[✅ OK]  Fila   77 | ID: 24605502             | ROMERO OSORIO GLORIA PATRICIA
+[✅ OK]  Fila   78 | ID: 24675405             | GIL ROA DORA ALICIA
+[✅ OK]  Fila   79 | ID: 24806041             | UBAQUE DE DIAZ MARIA ELVIRA
+[✅ OK]  Fila   80 | ID: 7519859              | PERDOMO  JAIME
+[✅ OK]  Fila   81 | ID: 24673659             | HERNANDEZ MARTINEZ TERESA
+[✅ OK]  Fila   82 | ID: 25021367             | ARROYO SOTELO NELLY MARIA
+[✅ OK]  Fila   83 | ID: 42015104             | CARDONA BARBOSA ELISABEHT
+[✅ OK]  Fila   84 | ID: 24602917             | GARCIA ZAPATA MARIA SOLELBA
+[✅ OK]  Fila   85 | ID: 24811434             | RIOS RENDON MARIA SOCORRO
+[✅ OK]  Fila   86 | ID: 41936555             | HENAO BUITRAGO DUBINEY
+[✅ OK]  Fila   87 | ID: 18402615             | QUINTERO VANEGAS  HERIBERTO
+[✅ OK]  Fila   88 | ID: 34553670             | NIETO VANEGAS MARTHA CECILIA
+[✅ OK]  Fila   89 | ID: 4407534              | GIRALDO TABARES EVERARDO
+[⚠️ SKIP] Fila   90 | ID: 24988583             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila   90 | ID: 24988583             | VILLAREAL AHUMADA GLADIS CENEDA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila   91 | ID: 10032336             | BEDOYA BETANCUR FERNANDO MAURICIO
+[✅ OK]  Fila   92 | ID: 51640422             | RAMIREZ CHAPARRO ALBA ROSA
+[✅ OK]  Fila   93 | ID: 1005095167           | RESTREPO  VASCO MARIA JOSE
+[✅ OK]  Fila   94 | ID: 1018488160           | OCAMPO PALOMINO MAIR ALEJANDRA
+[✅ OK]  Fila   95 | ID: 31350059             | MUNOZ GIRALDO MARIA RUBIELA
+[✅ OK]  Fila   96 | ID: 9806961              | LOPEZ CANO LUIS FERNANDO
+[✅ OK]  Fila   97 | ID: 25020719             | PINEDA GOMEZ CENEIDA
+[✅ OK]  Fila   98 | ID: 6524465              | PINEDA ARCILA ALFONSO DE JESUS
+[✅ OK]  Fila   99 | ID: 1032373472           | TORRES CAICEDO MAULA ANDREA
+[✅ OK]  Fila  100 | ID: 24605669             | GARCIA VALENCIA MARTHA CECILIA
+[⚠️ SKIP] Fila  101 | ID: 1048211329           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  101 | ID: 1048211329           | PEREZ DE LA HOZ LUIS EDUARDO | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  102 | ID: 1054918379           | PUERTA GRAJALES YESIKA CENELIA
+[✅ OK]  Fila  103 | ID: 9880012              | LONDONO GONZALEZ MARCO TULIO
+[✅ OK]  Fila  104 | ID: 24580197             | MARIN IZQUIERDO ROSALBA
+[✅ OK]  Fila  105 | ID: 4531634              | BEDOYA DUQUE JOSE FABIO
+[✅ OK]  Fila  106 | ID: 24603518             | ECHEVERRY CASTANO YOLAIDA
+[✅ OK]  Fila  107 | ID: 24674341             | MARTINEZ RENDON LUZ MILA
+[✅ OK]  Fila  108 | ID: 24330495             | RUIZ LOPEZ MARIA PRAENZA
+[✅ OK]  Fila  109 | ID: 1002545769           | ARANGO ORREGO JUAN FELIPE
+[✅ OK]  Fila  110 | ID: 1002865973           | MONTOYA MUNOZ ALEXANDER
+[✅ OK]  Fila  111 | ID: 1005096052           | RENGIFO GUASGUITA DANIELA
+[⚠️ SKIP] Fila  112 | ID: 1005368187           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  112 | ID: 1005368187           | ALFONSO MARIN JENNIFER JELENNY | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  113 | ID: 1088267609           | HENAO  SANDRA YULIETH
+[⚠️ SKIP] Fila  114 | ID: 1094271245           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  114 | ID: 1094271245           | CONTRERAS CRUZ MARIA ANGELA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  115 | ID: 1094880386           | SALGADO MARTINEZ VIVIANA
+[✅ OK]  Fila  116 | ID: 1094884362           | ARDILA  VARGAS ELIZABETH
+[⚠️ SKIP] Fila  117 | ID: 1094888449           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  117 | ID: 1094888449           | PAYAN RESTREPO ANGELA MARIA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  118 | ID: 1094897243           | GALEANO BERMUDEZ DIEGO FERNANDO
+[✅ OK]  Fila  119 | ID: 1094898493           | GOMEZ  RUIZ JHOAN DAVID
+[⚠️ SKIP] Fila  120 | ID: 1094902917           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  120 | ID: 1094902917           | LONDOÑO CASTRO JESSICA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila  121 | ID: 1094905585           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  121 | ID: 1094905585           | TIENDA DETODITO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila  122 | ID: 42110517             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila  122 | ID: 42110517             | TIENDA EL JORDAN | ERROR: DIGITO_VERIFICACION
+[✅ OK]  Fila  123 | ID: 7525151              | HENAO  RODRIGUE HELVER
+[✅ OK]  Fila  124 | ID: 7531319              | POSADA BAHENA REINALDO
+[✅ OK]  Fila  125 | ID: 8498349              | ESCALONA GUETE JHAN CARLOS
+[✅ OK]  Fila  126 | ID: 94253215             | RIOS JARAMILLO MAURO DE JESUS
+[✅ OK]  Fila  127 | ID: 15911445             | GARCIA LADINO HERNAN DE JESUS
+[⚠️ SKIP] Fila  128 | ID: 41903705             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  128 | ID: 41903705             | CARMONA ORTEGA LUZ DELIA | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  129 | ID: 70783779             | SANTA LOPEZ NOLBERTO
+[✅ OK]  Fila  130 | ID: 97436259             | BERMEO LOPEZ ARLEY
+[✅ OK]  Fila  131 | ID: 18419158             | BARRAGAN  VERGARA ANGEL NEIR
+[✅ OK]  Fila  132 | ID: 4929969              | NANEZ  HOYOS SEGUNDO JESUS
+[✅ OK]  Fila  133 | ID: 25014974             | PEREZ  CRUZ  MARIA GUIOMAR
+[✅ OK]  Fila  134 | ID: 66768339             | RESTREPO   JANETH
+[✅ OK]  Fila  135 | ID: 24585100             | GONZALES GOMEZ LUZ ADRIANA
+[✅ OK]  Fila  136 | ID: 4355617              | CANO LONDONO HERNANDO DE JESUS
+[✅ OK]  Fila  137 | ID: 4403950              | RENGIFO MARIN HERMES
+[✅ OK]  Fila  138 | ID: 24815402             | ZAPATA RUIZ DIANA MARIA
+[✅ OK]  Fila  139 | ID: 28529798             | GARIBELLO ALDANA BLANCA REINA
+[✅ OK]  Fila  140 | ID: 3380943              | RODAS  ALEJANDRO
+[⚠️ SKIP] Fila  141 | ID: 7557633              | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  141 | ID: 7557633              | HERNANDEZ ZAPATA  LEONEL | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  142 | ID: 18593645             | LONDONO ESCOBAR JHON JAIRO
+[✅ OK]  Fila  143 | ID: 41947041             | RESTREPO ENCIZO SANDRA MILENA
+[✅ OK]  Fila  144 | ID: 41941135             | RAMOS GRANADA JAQUELINE
+[✅ OK]  Fila  145 | ID: 29448526             | CASTANO MARIA YORLADIS
+[✅ OK]  Fila  146 | ID: 1019043674           | ROJAS GUTIERREZ ANGELA PATRICIA
+[✅ OK]  Fila  147 | ID: 4344549              | CARDONA   SALAZAR LUIS ALBERTO
+[✅ OK]  Fila  148 | ID: 1150934549           | TOBAR ESCOBAR KAREN LIZETH
+[✅ OK]  Fila  149 | ID: 11794286             | MENA RENTERIA HUGO FERNELIX
+[✅ OK]  Fila  150 | ID: 41903159             | BARRERO RIVILLAS GRACIELA
+[✅ OK]  Fila  151 | ID: 5991987              | ANDUQUIA RIOS JOSE ASBEL
+[✅ OK]  Fila  152 | ID: 28587700             | ROZO ALBA NELLY
+[✅ OK]  Fila  153 | ID: 42100201             | HERRERA MARIN NANCY
+[✅ OK]  Fila  154 | ID: 42762683             | BERMUDEZ MONTOYA MARTA LIGIA
+[✅ OK]  Fila  155 | ID: 80886769             | RAMIREZ BONILLA FRAY ALBERTO
+[✅ OK]  Fila  156 | ID: 24659891             | LOPEZ RESTREPO ANABEYBA
+[⚠️ SKIP] Fila  157 | ID: 65776817             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila  157 | ID: 65776817             | TOVAR MURCIA  NERCY | ERROR: CLIENTE_YA_CREADO
+[✅ OK]  Fila  158 | ID: 65711523             | GAVIRIA GARCIA LUZ MARINA
+[✅ OK]  Fila  159 | ID: 4522744              | OSORIO SALAZAR MIGUEL ANGEL
+[❌ FAIL] Fila  160 | ID: 24577730             | CARDENAS GIRALDO MARIA CELMIRA | ERROR: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+[❌ FAIL] Fila  161 | ID: 24815434             | RAMIREZ BUITRAGO DIANA CAROLINA | ERROR: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 20:17:14
+============================================================
+[✅ OK]  Fila    2 | ID: 1094878854           | LEONEL SOGAMOSO MOISES
+[✅ OK]  Fila    3 | ID: 1094916737           | CHAMORRO SALGADO LUZ ANDREA
+[✅ OK]  Fila    4 | ID: 1097394493           | RAMIREZ GAITAN ANDREA MARISELA
+[✅ OK]  Fila    5 | ID: 41896763             | LADINO TORRES GLADYS DE JESUS
+[⚠️ SKIP] Fila    6 | ID: 1048211329           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila    6 | ID: 1048211329           | PEREZ DE LA HOZ LUIS EDUARDO | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila    7 | ID: 1094905585           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    7 | ID: 1094905585           | TIENDA DETODITO | ERROR: DIGITO_VERIFICACION
+[⚠️ SKIP] Fila    8 | ID: 42110517             | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    8 | ID: 42110517             | TIENDA EL JORDAN | ERROR: DIGITO_VERIFICACION
+
+--- RESUMEN FINAL ---
+Total: 7 | Exitosos: 7 | Fallidos: 0
+Tiempo total: 252.62s | Promedio: 36.09s por registro
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 20:23:54
+============================================================
+[⚠️ SKIP] Fila    2 | ID: 1094905585           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    2 | ID: 1094905585           | TIENDA DETODITO | ERROR: DIGITO_VERIFICACION
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 20:25:15
+============================================================
+[❌ FAIL] Fila    2 | ID: 1094905585           | TIENDA DETODITO | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 20:26:02
+============================================================
+[✅ OK]  Fila    2 | ID: 1094905585           | TIENDA DETODITO
+[✅ OK]  Fila    3 | ID: 42110517             | TIENDA EL JORDAN
+
+--- RESUMEN FINAL ---
+Total: 2 | Exitosos: 2 | Fallidos: 0
+Tiempo total: 93.56s | Promedio: 46.78s por registro
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 20:29:52
+============================================================
+[⚠️ SKIP] Fila    2 | ID: 1054919895           | SALTADA POR DÍGITO VERIF.
+[❌ FAIL] Fila    2 | ID: 1054919895           | HERNANDEZ  GRAJALES ELIANA | ERROR: DIGITO_VERIFICACION
+[❌ FAIL] Fila    3 | ID: 10694540             | MENESES DAZA CARLOS NOLBERTO | ERROR: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+[❌ FAIL] Fila    4 | ID: 24603551             | GARCIA ZAPATA  SOFIA | ERROR: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+[❌ FAIL] Fila    5 | ID: 1116915816           | MARTINEZ ESCUDERO JAQUELINE | ERROR: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+[❌ FAIL] Fila    6 | ID: 901754060            | INVERSIONES SANTANA DEL EJE S.A.S | ERROR: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+[❌ FAIL] Fila    7 | ID: 1094878854           | LEONEL SOGAMOSO MOISES | ERROR: PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-08 20:31:00
+============================================================
+[⚠️ SKIP] Fila    2 | ID: 1054919895           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila    2 | ID: 1054919895           | HERNANDEZ  GRAJALES ELIANA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila    3 | ID: 10694540             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila    3 | ID: 10694540             | MENESES DAZA CARLOS NOLBERTO | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila    4 | ID: 24603551             | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila    4 | ID: 24603551             | GARCIA ZAPATA  SOFIA | ERROR: CLIENTE_YA_CREADO
+[⚠️ SKIP] Fila    5 | ID: 1116915816           | SALTADA POR EXISTENTE (CREADO)
+[❌ FAIL] Fila    5 | ID: 1116915816           | MARTINEZ ESCUDERO JAQUELINE | ERROR: CLIENTE_YA_CREADO
+[❌ FAIL] Fila    6 | ID: 901754060            | INVERSIONES SANTANA DEL EJE S.A.S | ERROR: Interrupción de seguridad: Popup inesperado detectado.
+
+============================================================
+  NUEVA EJECUCIÓN: 2026-03-15 13:22:19
+============================================================
+[❌ FAIL] Fila    2 | ID: 2069889              | TIENDA PORTON DE RIO FRIO | ERROR: Interrupción de seguridad: Popup inesperado detectado.
