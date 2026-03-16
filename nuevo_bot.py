@@ -297,7 +297,7 @@ def facturacion(row):
         # Lógica de vencimiento según días
         vencimiento_num = "".join(c for c in dato_vencimiento if c.isdigit())
         mapeo_vencimiento = {
-            "7": ("semana", "sem"),
+            "7": ("semana", "semsem"),
             "14": ("quincenal", "qu"),
             "21": ("20 días", "20"),
             "28": ("25 días", "25"),
@@ -438,6 +438,55 @@ def direccion(row):
     if dato_barrio.upper() == "CENTRO":
         print(f"    - Paso 3.1: Escribiendo Barrio COMPLETO rápido ({dato_barrio}) + Enter")
         pyautogui.write(dato_barrio, interval=0.01)
+    elif dato_barrio.upper() == "CIUDAD VALENCIA":
+        print(f"    - Paso 3.1: Caso especial CIUDAD VALENCIA. Escribiendo 'CIU' + 3 Down")
+        pyautogui.write("CIU", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(3):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "CIUDADELA REAL DE MINAS":
+        print(f"    - Paso 3.1: Caso especial CIUDADELA REAL DE MINAS. Escribiendo 'CIU' + 9 Down")
+        pyautogui.write("CIU", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(9):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "CONUCOS":
+        print(f"    - Paso 3.1: Caso especial CONUCOS. Escribiendo 'CON' + 6 Down")
+        pyautogui.write("CON", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(6):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif "DIAMANTE II" in dato_barrio.upper() or "DIAMANTE 2" in dato_barrio.upper():
+        print(f"    - Paso 3.1: Caso especial DIAMANTE II. Escribiendo 'DIA' + 2 Down")
+        pyautogui.write("DIA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(2):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "EL CRISTAL":
+        print(f"    - Paso 3.1: Caso especial EL CRISTAL. Escribiendo 'EL' + 5 Down")
+        pyautogui.write("EL", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(5):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "EL DIVISO":
+        print(f"    - Paso 3.1: Caso especial EL DIVISO. Escribiendo 'EL' + 4 Down")
+        pyautogui.write("EL", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(4):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "EL DORADO":
+        print(f"    - Paso 3.1: Caso especial EL DORADO. Escribiendo 'EL' + 2 Down")
+        pyautogui.write("EL", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(2):
+            pyautogui.press("down")
+            time.sleep(0.1)
     elif dato_barrio.upper() == "SAN FRANCISCO":
         print(f"    - Paso 3.1: Caso especial SAN FRANCISCO. Escribiendo 'SAN' + 4 Down")
         pyautogui.write("SAN", interval=0.15)
