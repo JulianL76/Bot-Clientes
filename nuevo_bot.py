@@ -532,6 +532,114 @@ def direccion(row):
     elif dato_barrio.upper() == "RICUARTE":
         print(f"    - Paso 3.1: Caso especial RICUARTE. Escribiendo solo 2 letras ('RI')")
         pyautogui.write("RI", interval=0.15)
+    elif dato_barrio.upper() == "FLORIDABLANCA":
+        print(f"    - Paso 3.1: Caso especial FLORIDABLANCA. Escribiendo 'flo' dos veces")
+        pyautogui.write("floflo", interval=0.15)
+    elif dato_barrio.upper() == "GRANJAS DE JULIO RINCON":
+        print(f"    - Paso 3.1: Caso especial GRANJAS DE JULIO RINCON. Escribiendo 'GRA' + 3 Down")
+        pyautogui.write("GRA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(3):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "GRANJAS DE PROVENZA":
+        print(f"    - Paso 3.1: Caso especial GRANJAS DE PROVENZA. Escribiendo 'GRA' + 4 Down")
+        pyautogui.write("GRA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(4):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "GUARIN":
+        print(f"    - Paso 3.1: Caso especial GUARIN. Escribiendo 'GUA' + 5 Down")
+        pyautogui.write("GUA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(5):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "GUAYACANES":
+        print(f"    - Paso 3.1: Caso especial GUAYACANES. Escribiendo 'gu' + 4 Down")
+        pyautogui.write("gu", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(4):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LA CEIBA":
+        print(f"    - Paso 3.1: Caso especial LA CEIBA. Escribiendo 'LA' + 2 Down")
+        pyautogui.write("LA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(2):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LA COCORDIA" or dato_barrio.upper() == "LA CONCORDIA":
+        print(f"    - Paso 3.1: Caso especial LA CONCORDIA. Escribiendo 'LA' + 7 Down")
+        pyautogui.write("LA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(7):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LA FLORESTA":
+        print(f"    - Paso 3.1: Caso especial LA FLORESTA. Escribiendo 'LA' + 13 Down")
+        pyautogui.write("LA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(13):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LA GRAN LADERA":
+        print(f"    - Paso 3.1: Caso especial LA GRAN LADERA. Escribiendo 'LA' + 17 Down")
+        pyautogui.write("LA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(17):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LA JOYA":
+        print(f"    - Paso 3.1: Caso especial LA JOYA. Escribiendo 'LA' + 20 Down")
+        pyautogui.write("LA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(20):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LA LIBERTAD":
+        print(f"    - Paso 3.1: Caso especial LA LIBERTAD. Escribiendo 'LA' + 24 Down")
+        pyautogui.write("LA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(24):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LA MALAÑA":
+        print(f"    - Paso 3.1: Caso especial LA MALAÑA. Escribiendo 'LA' + 27 Down")
+        pyautogui.write("LA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(27):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LA PAZ":
+        print(f"    - Paso 3.1: Caso especial LA PAZ. Escribiendo 'LA' + 31 Down")
+        pyautogui.write("LA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(31):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LA QUEBRADA":
+        print(f"    - Paso 3.1: Caso especial LA QUEBRADA. Escribiendo 'LA' + 36 Down")
+        pyautogui.write("LA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(36):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LA SALLE":
+        print(f"    - Paso 3.1: Caso especial LA SALLE. Escribiendo 'LA' + 41 Down")
+        pyautogui.write("LA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(41):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LA VICTORIA":
+        print(f"    - Paso 3.1: Caso especial LA VICTORIA. Escribiendo 'LA' + 46 Down")
+        pyautogui.write("LA", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(46):
+            pyautogui.press("down")
+            time.sleep(0.1)
     else:
         print(f"    - Paso 3.1: Escribiendo Barrio ({dato_barrio_corto}) + Enter")
         if dato_barrio_corto:
