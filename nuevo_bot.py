@@ -640,6 +640,27 @@ def direccion(row):
         for _ in range(46):
             pyautogui.press("down")
             time.sleep(0.1)
+    elif "LAGOS 2" in dato_barrio.upper() or "LAGOS II" in dato_barrio.upper():
+        print(f"    - Paso 3.1: Caso especial LAGOS 2. Escribiendo 'LAG' + 2 Down")
+        pyautogui.write("LAG", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(2):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "LAGOS DEL CACIQUE":
+        print(f"    - Paso 3.1: Caso especial LAGOS DEL CACIQUE. Escribiendo 'LAG' + 6 Down")
+        pyautogui.write("LAG", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(6):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif "LAGOS 3" in dato_barrio.upper() or "LAGOS III" in dato_barrio.upper():
+        print(f"    - Paso 3.1: Caso especial LAGOS 3. Escribiendo 'LAG' + 8 Down")
+        pyautogui.write("LAG", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(8):
+            pyautogui.press("down")
+            time.sleep(0.1)
     else:
         print(f"    - Paso 3.1: Escribiendo Barrio ({dato_barrio_corto}) + Enter")
         if dato_barrio_corto:
