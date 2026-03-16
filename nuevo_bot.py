@@ -294,10 +294,28 @@ def facturacion(row):
         pyautogui.press("enter")
         smart_sleep(0.1)
         
+        # Lógica de vencimiento según días
         vencimiento_num = "".join(c for c in dato_vencimiento if c.isdigit())
-        if vencimiento_num == "30":
-            print("    - Paso 4.1: Vencimiento 30 días detectado. Presionando M y Enter.")
-            pyautogui.write("m")
+        mapeo_vencimiento = {
+            "7": ("semana", "sem"),
+            "14": ("quincenal", "qu"),
+            "21": ("20 días", "20"),
+            "28": ("25 días", "25"),
+            "30": ("mensual", "me"),
+            "45": ("cuarenta", "cu")
+        }
+        
+        if vencimiento_num in mapeo_vencimiento:
+            label, teclas = mapeo_vencimiento[vencimiento_num]
+            print(f"    - Paso 4.1: Vencimiento {vencimiento_num} días ({label}) detectado. Escribiendo '{teclas}' + Enter.")
+            pyautogui.write(teclas)
+            smart_sleep(0.1)
+            pyautogui.press("enter")
+            smart_sleep(0.1)
+        elif vencimiento_num:
+            # Caso por defecto si hay un número pero no está en el mapeo
+            print(f"    - Paso 4.1: Vencimiento {vencimiento_num} días detectado (sin mapeo específico).")
+            pyautogui.write(vencimiento_num)
             smart_sleep(0.1)
             pyautogui.press("enter")
             smart_sleep(0.1)
@@ -685,6 +703,17 @@ def main():
         promedio = duracion_total / total
         print(f"   Promedio por registro: {promedio:.2f}s")
     print("===========================================")
+    
+    # Sonido suave y largo al finalizar (Arpegio ascendente suave)
+    print("[*] Proceso completado. Notificando con sonido...")
+    try:
+        frecuencias = [440, 554, 659, 880] # La mayor: A4, C#5, E5, A5
+        for f in frecuencias:
+            winsound.Beep(f, 400)
+            time.sleep(0.05)
+        winsound.Beep(1108, 1000) # Nota final larga (C#6)
+    except:
+        pass
 
 if __name__ == "__main__":
     main()
