@@ -438,6 +438,51 @@ def direccion(row):
     if dato_barrio.upper() == "CENTRO":
         print(f"    - Paso 3.1: Escribiendo Barrio COMPLETO rápido ({dato_barrio}) + Enter")
         pyautogui.write(dato_barrio, interval=0.01)
+    elif dato_barrio.upper() == "SAN FRANCISCO":
+        print(f"    - Paso 3.1: Caso especial SAN FRANCISCO. Escribiendo 'SAN' + 4 Down")
+        pyautogui.write("SAN", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(4):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "SAN GERARDO":
+        print(f"    - Paso 3.1: Caso especial SAN GERARDO. Escribiendo 'SAN' + 7 Down")
+        pyautogui.write("SAN", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(7):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "SAN LUIS":
+        print(f"    - Paso 3.1: Caso especial SAN LUIS. Escribiendo 'SAN' + 11 Down")
+        pyautogui.write("SAN", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(11):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "SAN MARTIN" or dato_barrio.upper() == "SAN MARTÍN":
+        print(f"    - Paso 3.1: Caso especial SAN MARTIN. Escribiendo 'SAN' + 14 Down")
+        pyautogui.write("SAN", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(14):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "SAN MIGUEL":
+        print(f"    - Paso 3.1: Caso especial SAN MIGUEL. Escribiendo 'SAN' + 19 Down")
+        pyautogui.write("SAN", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(19):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "SAN PEDRO":
+        print(f"    - Paso 3.1: Caso especial SAN PEDRO. Escribiendo 'SAN' + 21 Down")
+        pyautogui.write("SAN", interval=0.15)
+        smart_sleep(0.2)
+        for _ in range(21):
+            pyautogui.press("down")
+            time.sleep(0.1)
+    elif dato_barrio.upper() == "RICUARTE":
+        print(f"    - Paso 3.1: Caso especial RICUARTE. Escribiendo solo 2 letras ('RI')")
+        pyautogui.write("RI", interval=0.15)
     else:
         print(f"    - Paso 3.1: Escribiendo Barrio ({dato_barrio_corto}) + Enter")
         if dato_barrio_corto:
