@@ -65,9 +65,15 @@ def monitor_de_popups():
                         if not BotState.digito_requested:
                             print(f"\n    [!] Detectado popup: '{current_title}'. Solicitando escape automático...")
                             BotState.digito_requested = True
-                    elif "planilla nuevo cliente" in current_title.lower() or "recuperar su" in current_title.lower():
+                    elif "planilla nuevo cliente" in current_title.lower() or "plantilla nuevo cliente" in current_title.lower():
+                        print(f"\n    [!] Detectado popup de planilla: '{current_title}'. Presionando flecha izquierda y Enter...")
+                        pyautogui.press("left")
+                        time.sleep(0.2)
+                        pyautogui.press("enter")
+                        time.sleep(0.5)
+                    elif "recuperar su" in current_title.lower():
                         if not BotState.creado_requested:
-                            print(f"\n    [!] Detectado popup de cliente existente: '{current_title}'. Solicitando escape automático...")
+                            print(f"\n    [!] Detectado popup de cliente existente ('recuperar su'): '{current_title}'. Solicitando escape automático...")
                             BotState.creado_requested = True
                     else:
                         if not BotState.pause_requested:
